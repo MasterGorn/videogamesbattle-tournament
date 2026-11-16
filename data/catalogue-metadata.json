@@ -1,0 +1,44 @@
+{
+  "catalogueDate": "2026-11-11",
+  "author": "Video Games Battle — sélection éditoriale à partir de Metacritic",
+  "sourceAuthor": "Metacritic",
+  "count": 256,
+  "criterion": "Meilleure note presse Metascore observée parmi les plateformes et versions consultées, après regroupement des remakes et éditions enrichies.",
+  "scope": "Jeux complets sur PC, consoles et mobiles ; compilations de rééditions, extensions dépendantes et applications créatives exclues.",
+  "editionYear": "L’année et la date affichées sont celles de la plateforme/version retenue, pas nécessairement celles de la première édition du jeu. Dates de la fiche Metacritic, souvent sortie nord-américaine.",
+  "tieBreak": [
+    "Metascore décroissant",
+    "Nombre de critiques de la version décroissant",
+    "Date de sortie de cette version croissante",
+    "Titre puis plateforme par ordre alphabétique"
+  ],
+  "minimumReviews": null,
+  "lowReviewCountDisclosure": "Aucun seuil ajouté au score Metacritic : certaines plateformes ont seulement 4 à 6 critiques. Le nombre de critiques est fourni.",
+  "selectionLimitations": "Instantané documenté de pages consultées, pas export officiel exhaustif de la base Metacritic ni classement en temps réel. Les rapprochements original/remake sont des décisions éditoriales auditées.",
+  "rankingPages": 10,
+  "platformCount": 24,
+  "platformPages": 30,
+  "individualGamePages": 717,
+  "sourceVariants": 2054,
+  "selectedFamilyCount": 256,
+  "scoreDistribution": {
+    "99": 2,
+    "98": 6,
+    "97": 13,
+    "96": 18,
+    "95": 16,
+    "94": 46,
+    "93": 64,
+    "92": 81,
+    "91": 10
+  },
+  "lowestSelectedScore": 91,
+  "lowestSelectedTieBreak": {
+    "title": "God of War: Chains of Olympus",
+    "score": 91,
+    "reviewCount": 79,
+    "platform": "PSP"
+  },
+  "scoresAreNotUserRatings": true,
+  "officialAffiliation": false
+}

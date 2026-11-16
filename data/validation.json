@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checkedAt": "2026-11-11",
+  "checks": [
+    "256 ids uniques",
+    "256 familles uniques",
+    "seeds 1–256 continus",
+    "Metascores décroissants",
+    "256 notes, plateformes, dates et nombres de critiques conformes à une fiche individuelle",
+    "256 images locales présentes",
+    "256 URL de provenance des images présentes"
+  ],
+  "gamesSha256": "5e084ffde5f6beb7fa981e86e619b444ccbb6b4b70ede36c2ae0b0a3606d0de5",
+  "coverCount": 256
+}

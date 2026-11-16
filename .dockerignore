@@ -1,0 +1,6 @@
+.env
+runtime
+node_modules
+tests
+research
+.git

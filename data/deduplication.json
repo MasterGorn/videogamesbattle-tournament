@@ -1,0 +1,4508 @@
+{
+  "families": {
+    "zelda-ocarina-of-time": [
+      "the-legend-of-zelda-ocarina-of-time",
+      "the-legend-of-zelda-ocarina-of-time-2026",
+      "the-legend-of-zelda-ocarina-of-time-3d",
+      "the-legend-of-zelda-ocarina-of-time-master-quest-2002"
+    ],
+    "zelda-tears-of-the-kingdom": [
+      "the-legend-of-zelda-tears-of-the-kingdom",
+      "the-legend-of-zelda-tears-of-the-kingdom-nintendo"
+    ],
+    "zelda-breath-of-the-wild": [
+      "the-legend-of-zelda-breath-of-the-wild",
+      "the-legend-of-zelda-breath-of-the-wild-nintendo"
+    ],
+    "zelda-wind-waker": [
+      "the-legend-of-zelda-the-wind-waker",
+      "the-legend-of-zelda-the-wind-waker-hd"
+    ],
+    "zelda-majoras-mask": [
+      "the-legend-of-zelda-majoras-mask",
+      "the-legend-of-zelda-majoras-mask-3d"
+    ],
+    "zelda-skyward-sword": [
+      "the-legend-of-zelda-skyward-sword",
+      "the-legend-of-zelda-skyward-sword-hd"
+    ],
+    "zelda-twilight-princess": [
+      "the-legend-of-zelda-twilight-princess",
+      "the-legend-of-zelda-twilight-princess-hd"
+    ],
+    "the-last-of-us": [
+      "the-last-of-us",
+      "the-last-of-us-remastered",
+      "the-last-of-us-part-i"
+    ],
+    "the-last-of-us-part-ii": [
+      "the-last-of-us-part-ii",
+      "the-last-of-us-part-ii-remastered"
+    ],
+    "disco-elysium": [
+      "disco-elysium",
+      "disco-elysium-the-final-cut"
+    ],
+    "metroid-prime": [
+      "metroid-prime",
+      "metroid-prime-remastered"
+    ],
+    "resident-evil-4": [
+      "resident-evil-4-2005",
+      "resident-evil-4",
+      "resident-evil-4-gold-edition"
+    ],
+    "resident-evil-2": [
+      "resident-evil-2",
+      "resident-evil-2-deluxe-edition",
+      "resident-evil-2-1998"
+    ],
+    "resident-evil": [
+      "resident-evil",
+      "resident-evil-remake",
+      "resident-evil-hd-remaster"
+    ],
+    "resident-evil-3": [
+      "resident-evil-3-nemesis",
+      "resident-evil-3"
+    ],
+    "resident-evil-code-veronica": [
+      "resident-evil-code-veronica",
+      "resident-evil-code-veronica-x"
+    ],
+    "persona-5": [
+      "persona-5",
+      "persona-5-royal"
+    ],
+    "persona-4": [
+      "persona-4-golden",
+      "shin-megami-tensei-persona-4"
+    ],
+    "persona-3": [
+      "shin-megami-tensei-persona-3-fes",
+      "shin-megami-tensei-persona-3-portable",
+      "persona-3-reload"
+    ],
+    "metal-gear-solid-3": [
+      "metal-gear-solid-3-subsistence",
+      "metal-gear-solid-3-snake-eater",
+      "metal-gear-solid-delta-snake-eater"
+    ],
+    "metal-gear-solid-2": [
+      "metal-gear-solid-2-sons-of-liberty",
+      "metal-gear-solid-2-substance"
+    ],
+    "ninja-gaiden": [
+      "ninja-gaiden-black",
+      "ninja-gaiden-2004",
+      "ninja-gaiden-sigma"
+    ],
+    "the-witcher-3": [
+      "the-witcher-3-wild-hunt",
+      "the-witcher-3-wild-hunt-complete-edition",
+      "the-witcher-3-wild-hunt-remastered"
+    ],
+    "divinity-original-sin-ii": [
+      "divinity-original-sin-ii",
+      "divinity-original-sin-ii-definitive-edition"
+    ],
+    "divinity-original-sin": [
+      "divinity-original-sin",
+      "divinity-original-sin-enhanced-edition"
+    ],
+    "virtua-fighter-4": [
+      "virtua-fighter-4",
+      "virtua-fighter-4-evolution"
+    ],
+    "street-fighter-iv": [
+      "street-fighter-iv",
+      "super-street-fighter-iv",
+      "super-street-fighter-iv-arcade-edition",
+      "ultra-street-fighter-iv"
+    ],
+    "okami": [
+      "okami",
+      "okami-hd"
+    ],
+    "tetris-effect": [
+      "tetris-effect",
+      "tetris-effect-connected"
+    ],
+    "demons-souls": [
+      "demons-souls",
+      "demons-souls-2009"
+    ],
+    "final-fantasy-vii": [
+      "final-fantasy-vii",
+      "final-fantasy-vii-rebirth",
+      "final-fantasy-vii-remake",
+      "final-fantasy-vii-remake-intergrade"
+    ],
+    "final-fantasy-xii": [
+      "final-fantasy-xii",
+      "final-fantasy-xii-the-zodiac-age"
+    ],
+    "final-fantasy-ix": [
+      "final-fantasy-ix",
+      "final-fantasy-ix-remastered"
+    ],
+    "nier-automata": [
+      "nier-automata",
+      "nier-automata-game-of-the-yorha-edition",
+      "nier-automata-become-as-gods-edition",
+      "nier-automata-the-end-of-yorha-edition"
+    ],
+    "dragon-quest-xi": [
+      "dragon-quest-xi-s-echoes-of-an-elusive-age",
+      "dragon-quest-xi-echoes-of-an-elusive-age"
+    ],
+    "xenoblade-chronicles": [
+      "xenoblade-chronicles",
+      "xenoblade-chronicles-definitive-edition",
+      "xenoblade-chronicles-3d"
+    ],
+    "super-mario-3d-world": [
+      "super-mario-3d-world",
+      "super-mario-3d-world-plus-bowsers-fury"
+    ],
+    "super-mario-64": [
+      "super-mario-64",
+      "super-mario-64-ds"
+    ],
+    "mario-kart-8": [
+      "mario-kart-8",
+      "mario-kart-8-deluxe"
+    ],
+    "elden-ring": [
+      "elden-ring",
+      "elden-ring-tarnished-edition"
+    ],
+    "portal": [
+      "portal",
+      "portal-still-alive"
+    ],
+    "shadow-of-the-colossus": [
+      "shadow-of-the-colossus",
+      "shadow-of-the-colossus-2005"
+    ],
+    "slay-the-princess": [
+      "slay-the-princess",
+      "slay-the-princess-the-pristine-cut"
+    ],
+    "the-stanley-parable": [
+      "the-stanley-parable",
+      "the-stanley-parable-ultra-deluxe"
+    ],
+    "shin-megami-tensei-v": [
+      "shin-megami-tensei-v",
+      "shin-megami-tensei-v-vengeance"
+    ],
+    "hollow-knight": [
+      "hollow-knight",
+      "hollow-knight-voidheart-edition"
+    ],
+    "dead-space": [
+      "dead-space",
+      "dead-space-2008"
+    ],
+    "death-stranding": [
+      "death-stranding",
+      "death-stranding-directors-cut"
+    ],
+    "xcom-enemy-unknown": [
+      "xcom-enemy-unknown",
+      "xcom-enemy-within"
+    ],
+    "rez": [
+      "rez",
+      "rez-infinite"
+    ],
+    "diablo-iii": [
+      "diablo-iii",
+      "diablo-iii-ultimate-evil-edition",
+      "diablo-iii-eternal-collection"
+    ],
+    "sonic-mania": [
+      "sonic-mania",
+      "sonic-mania-plus"
+    ],
+    "shovel-knight": [
+      "shovel-knight",
+      "shovel-knight-treasure-trove"
+    ],
+    "mark-of-the-ninja": [
+      "mark-of-the-ninja",
+      "mark-of-the-ninja-remastered"
+    ],
+    "thief-the-dark-project": [
+      "thief-the-dark-project",
+      "thief-gold"
+    ],
+    "dark-souls": [
+      "dark-souls",
+      "dark-souls-remastered"
+    ],
+    "dark-souls-ii": [
+      "dark-souls-ii",
+      "dark-souls-ii-scholar-of-the-first-sin"
+    ],
+    "the-elder-scrolls-iv-oblivion": [
+      "the-elder-scrolls-iv-oblivion",
+      "the-elder-scrolls-iv-oblivion-remastered"
+    ]
+  },
+  "omittedVersions": [
+    {
+      "retainedId": "the-legend-of-zelda-ocarina-of-time",
+      "familyKey": "zelda-ocarina-of-time",
+      "slug": "the-legend-of-zelda-ocarina-of-time-2026",
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "platform": "Nintendo Switch 2",
+      "score": 96,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-ocarina-of-time",
+      "familyKey": "zelda-ocarina-of-time",
+      "slug": "the-legend-of-zelda-ocarina-of-time-master-quest-2002",
+      "title": "The Legend of Zelda: Ocarina of Time / Master Quest",
+      "platform": "GameCube",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-ocarina-of-time",
+      "familyKey": "zelda-ocarina-of-time",
+      "slug": "the-legend-of-zelda-ocarina-of-time-3d",
+      "title": "The Legend of Zelda: Ocarina of Time 3D",
+      "platform": "3DS",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "baldurs-gate-3",
+      "familyKey": "baldurs-gate-3",
+      "slug": "baldurs-gate-3",
+      "title": "Baldur's Gate 3",
+      "platform": "PC",
+      "score": 96,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "baldurs-gate-3",
+      "familyKey": "baldurs-gate-3",
+      "slug": "baldurs-gate-3",
+      "title": "Baldur's Gate 3",
+      "platform": "PlayStation 5",
+      "score": 96,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-iv",
+      "familyKey": "grand-theft-auto-iv",
+      "slug": "grand-theft-auto-iv",
+      "title": "Grand Theft Auto IV",
+      "platform": "PlayStation 3",
+      "score": 98,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-iv",
+      "familyKey": "grand-theft-auto-iv",
+      "slug": "grand-theft-auto-iv",
+      "title": "Grand Theft Auto IV",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "soulcalibur",
+      "familyKey": "soulcalibur",
+      "slug": "soulcalibur",
+      "title": "SoulCalibur",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 73,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "soulcalibur",
+      "familyKey": "soulcalibur",
+      "slug": "soulcalibur",
+      "title": "SoulCalibur",
+      "platform": "Xbox 360",
+      "score": 79,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-2",
+      "familyKey": "tony-hawks-pro-skater-2",
+      "slug": "tony-hawks-pro-skater-2",
+      "title": "Tony Hawk's Pro Skater 2",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-2",
+      "familyKey": "tony-hawks-pro-skater-2",
+      "slug": "tony-hawks-pro-skater-2",
+      "title": "Tony Hawk's Pro Skater 2",
+      "platform": "Dreamcast",
+      "score": 97,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-2",
+      "familyKey": "tony-hawks-pro-skater-2",
+      "slug": "tony-hawks-pro-skater-2",
+      "title": "Tony Hawk's Pro Skater 2",
+      "platform": "Nintendo 64",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-2",
+      "familyKey": "tony-hawks-pro-skater-2",
+      "slug": "tony-hawks-pro-skater-2",
+      "title": "Tony Hawk's Pro Skater 2",
+      "platform": "Game Boy Advance",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-2",
+      "familyKey": "tony-hawks-pro-skater-2",
+      "slug": "tony-hawks-pro-skater-2",
+      "title": "Tony Hawk's Pro Skater 2",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hades-ii",
+      "familyKey": "hades-ii",
+      "slug": "hades-ii",
+      "title": "Hades II",
+      "platform": "PC",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hades-ii",
+      "familyKey": "hades-ii",
+      "slug": "hades-ii",
+      "title": "Hades II",
+      "platform": "Xbox Series X",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hades-ii",
+      "familyKey": "hades-ii",
+      "slug": "hades-ii",
+      "title": "Hades II",
+      "platform": "PlayStation 5",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hades-ii",
+      "familyKey": "hades-ii",
+      "slug": "hades-ii",
+      "title": "Hades II",
+      "platform": "Nintendo Switch 2",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "divinity-original-sin-ii-definitive-edition",
+      "familyKey": "divinity-original-sin-ii",
+      "slug": "divinity-original-sin-ii-definitive-edition",
+      "title": "Divinity: Original Sin II - Definitive Edition",
+      "platform": "Xbox One",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "divinity-original-sin-ii-definitive-edition",
+      "familyKey": "divinity-original-sin-ii",
+      "slug": "divinity-original-sin-ii-definitive-edition",
+      "title": "Divinity: Original Sin II - Definitive Edition",
+      "platform": "PlayStation 4",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "divinity-original-sin-ii-definitive-edition",
+      "familyKey": "divinity-original-sin-ii",
+      "slug": "divinity-original-sin-ii-definitive-edition",
+      "title": "Divinity: Original Sin II - Definitive Edition",
+      "platform": "PC",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "divinity-original-sin-ii-definitive-edition",
+      "familyKey": "divinity-original-sin-ii",
+      "slug": "divinity-original-sin-ii-definitive-edition",
+      "title": "Divinity: Original Sin II - Definitive Edition",
+      "platform": "Nintendo Switch",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "divinity-original-sin-ii-definitive-edition",
+      "familyKey": "divinity-original-sin-ii",
+      "slug": "divinity-original-sin-ii",
+      "title": "Divinity: Original Sin II",
+      "platform": "PC",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-breath-of-the-wild",
+      "familyKey": "zelda-breath-of-the-wild",
+      "slug": "the-legend-of-zelda-breath-of-the-wild-nintendo",
+      "title": "The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition",
+      "platform": "Nintendo Switch 2",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-breath-of-the-wild",
+      "familyKey": "zelda-breath-of-the-wild",
+      "slug": "the-legend-of-zelda-breath-of-the-wild",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "platform": "Wii U",
+      "score": 96,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "red-dead-redemption-2",
+      "familyKey": "red-dead-redemption-2",
+      "slug": "red-dead-redemption-2",
+      "title": "Red Dead Redemption 2",
+      "platform": "Xbox One",
+      "score": 97,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "red-dead-redemption-2",
+      "familyKey": "red-dead-redemption-2",
+      "slug": "red-dead-redemption-2",
+      "title": "Red Dead Redemption 2",
+      "platform": "PC",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "metroid-prime",
+      "familyKey": "metroid-prime",
+      "slug": "metroid-prime-remastered",
+      "title": "Metroid Prime Remastered",
+      "platform": "Nintendo Switch",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "halo-combat-evolved",
+      "familyKey": "halo-combat-evolved",
+      "slug": "halo-combat-evolved",
+      "title": "Halo: Combat Evolved",
+      "platform": "PC",
+      "score": 83,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-v",
+      "familyKey": "grand-theft-auto-v",
+      "slug": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "platform": "PlayStation 3",
+      "score": 97,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-v",
+      "familyKey": "grand-theft-auto-v",
+      "slug": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "platform": "Xbox 360",
+      "score": 97,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-v",
+      "familyKey": "grand-theft-auto-v",
+      "slug": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "platform": "Xbox One",
+      "score": 97,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-v",
+      "familyKey": "grand-theft-auto-v",
+      "slug": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "platform": "PC",
+      "score": 96,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-v",
+      "familyKey": "grand-theft-auto-v",
+      "slug": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "platform": "PlayStation 5",
+      "score": 81,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-v",
+      "familyKey": "grand-theft-auto-v",
+      "slug": "grand-theft-auto-v",
+      "title": "Grand Theft Auto V",
+      "platform": "Xbox Series X",
+      "score": 79,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-iii",
+      "familyKey": "grand-theft-auto-iii",
+      "slug": "grand-theft-auto-iii",
+      "title": "Grand Theft Auto III",
+      "platform": "PC",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-3",
+      "familyKey": "tony-hawks-pro-skater-3",
+      "slug": "tony-hawks-pro-skater-3",
+      "title": "Tony Hawk's Pro Skater 3",
+      "platform": "Xbox",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-3",
+      "familyKey": "tony-hawks-pro-skater-3",
+      "slug": "tony-hawks-pro-skater-3",
+      "title": "Tony Hawk's Pro Skater 3",
+      "platform": "GameCube",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-3",
+      "familyKey": "tony-hawks-pro-skater-3",
+      "slug": "tony-hawks-pro-skater-3",
+      "title": "Tony Hawk's Pro Skater 3",
+      "platform": "PlayStation",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-3",
+      "familyKey": "tony-hawks-pro-skater-3",
+      "slug": "tony-hawks-pro-skater-3",
+      "title": "Tony Hawk's Pro Skater 3",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-3",
+      "familyKey": "tony-hawks-pro-skater-3",
+      "slug": "tony-hawks-pro-skater-3",
+      "title": "Tony Hawk's Pro Skater 3",
+      "platform": "Game Boy Advance",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "perfect-dark-2000",
+      "familyKey": "perfect-dark-2000",
+      "slug": "perfect-dark-2000",
+      "title": "Perfect Dark (2000)",
+      "platform": "Xbox 360",
+      "score": 79,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "world-of-goo",
+      "familyKey": "world-of-goo",
+      "slug": "world-of-goo",
+      "title": "World of Goo",
+      "platform": "Wii",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "world-of-goo",
+      "familyKey": "world-of-goo",
+      "slug": "world-of-goo",
+      "title": "World of Goo",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "world-of-goo",
+      "familyKey": "world-of-goo",
+      "slug": "world-of-goo",
+      "title": "World of Goo",
+      "platform": "Nintendo Switch",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "disco-elysium-the-final-cut",
+      "familyKey": "disco-elysium",
+      "slug": "disco-elysium",
+      "title": "Disco Elysium",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "disco-elysium-the-final-cut",
+      "familyKey": "disco-elysium",
+      "slug": "disco-elysium-the-final-cut",
+      "title": "Disco Elysium: The Final Cut",
+      "platform": "PlayStation 5",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "disco-elysium-the-final-cut",
+      "familyKey": "disco-elysium",
+      "slug": "disco-elysium-the-final-cut",
+      "title": "Disco Elysium: The Final Cut",
+      "platform": "PlayStation 4",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "disco-elysium-the-final-cut",
+      "familyKey": "disco-elysium",
+      "slug": "disco-elysium-the-final-cut",
+      "title": "Disco Elysium: The Final Cut",
+      "platform": "Xbox Series X",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "disco-elysium-the-final-cut",
+      "familyKey": "disco-elysium",
+      "slug": "disco-elysium-the-final-cut",
+      "title": "Disco Elysium: The Final Cut",
+      "platform": "Nintendo Switch",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-tears-of-the-kingdom",
+      "familyKey": "zelda-tears-of-the-kingdom",
+      "slug": "the-legend-of-zelda-tears-of-the-kingdom-nintendo",
+      "title": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition",
+      "platform": "Nintendo Switch 2",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mass-effect-2",
+      "familyKey": "mass-effect-2",
+      "slug": "mass-effect-2",
+      "title": "Mass Effect 2",
+      "platform": "PC",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mass-effect-2",
+      "familyKey": "mass-effect-2",
+      "slug": "mass-effect-2",
+      "title": "Mass Effect 2",
+      "platform": "PlayStation 3",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "elden-ring",
+      "familyKey": "elden-ring",
+      "slug": "elden-ring",
+      "title": "Elden Ring",
+      "platform": "PC",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "elden-ring",
+      "familyKey": "elden-ring",
+      "slug": "elden-ring",
+      "title": "Elden Ring",
+      "platform": "Xbox Series X",
+      "score": 96,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "elden-ring",
+      "familyKey": "elden-ring",
+      "slug": "elden-ring-tarnished-edition",
+      "title": "Elden Ring: Tarnished Edition",
+      "platform": "Nintendo Switch 2",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-elder-scrolls-v-skyrim",
+      "familyKey": "the-elder-scrolls-v-skyrim",
+      "slug": "the-elder-scrolls-v-skyrim",
+      "title": "The Elder Scrolls V: Skyrim",
+      "platform": "PlayStation 3",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-elder-scrolls-v-skyrim",
+      "familyKey": "the-elder-scrolls-v-skyrim",
+      "slug": "the-elder-scrolls-v-skyrim",
+      "title": "The Elder Scrolls V: Skyrim",
+      "platform": "PC",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bioshock",
+      "familyKey": "bioshock",
+      "slug": "bioshock",
+      "title": "BioShock",
+      "platform": "PC",
+      "score": 96,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bioshock",
+      "familyKey": "bioshock",
+      "slug": "bioshock",
+      "title": "BioShock",
+      "platform": "PlayStation 3",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bioshock",
+      "familyKey": "bioshock",
+      "slug": "bioshock",
+      "title": "BioShock",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 68,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-4-2005",
+      "familyKey": "resident-evil-4",
+      "slug": "resident-evil-4",
+      "title": "Resident Evil 4",
+      "platform": "PlayStation 5",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-4-2005",
+      "familyKey": "resident-evil-4",
+      "slug": "resident-evil-4",
+      "title": "Resident Evil 4",
+      "platform": "Xbox Series X",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-4-2005",
+      "familyKey": "resident-evil-4",
+      "slug": "resident-evil-4",
+      "title": "Resident Evil 4",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-4-2005",
+      "familyKey": "resident-evil-4",
+      "slug": "resident-evil-4-gold-edition",
+      "title": "Resident Evil 4: Gold Edition",
+      "platform": "Nintendo Switch 2",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-4-2005",
+      "familyKey": "resident-evil-4",
+      "slug": "resident-evil-4-2005",
+      "title": "Resident Evil 4 (2005)",
+      "platform": "PlayStation 2",
+      "score": 96,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-4-2005",
+      "familyKey": "resident-evil-4",
+      "slug": "resident-evil-4-2005",
+      "title": "Resident Evil 4 (2005)",
+      "platform": "PC",
+      "score": 76,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-4-2005",
+      "familyKey": "resident-evil-4",
+      "slug": "resident-evil-4-2005",
+      "title": "Resident Evil 4 (2005)",
+      "platform": "Wii",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "half-life-2",
+      "familyKey": "half-life-2",
+      "slug": "half-life-2",
+      "title": "Half-Life 2",
+      "platform": "Xbox",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-the-wind-waker",
+      "familyKey": "zelda-wind-waker",
+      "slug": "the-legend-of-zelda-the-wind-waker-hd",
+      "title": "The Legend of Zelda: The Wind Waker HD",
+      "platform": "Wii U",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "metal-gear-solid-2-sons-of-liberty",
+      "familyKey": "metal-gear-solid-2",
+      "slug": "metal-gear-solid-2-substance",
+      "title": "Metal Gear Solid 2: Substance",
+      "platform": "PlayStation 2",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "batman-arkham-city",
+      "familyKey": "batman-arkham-city",
+      "slug": "batman-arkham-city",
+      "title": "Batman: Arkham City",
+      "platform": "Xbox 360",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "batman-arkham-city",
+      "familyKey": "batman-arkham-city",
+      "slug": "batman-arkham-city",
+      "title": "Batman: Arkham City",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "half-life",
+      "familyKey": "half-life",
+      "slug": "half-life",
+      "title": "Half-Life",
+      "platform": "PlayStation 2",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-twilight-princess",
+      "familyKey": "zelda-twilight-princess",
+      "slug": "the-legend-of-zelda-twilight-princess-hd",
+      "title": "The Legend of Zelda: Twilight Princess HD",
+      "platform": "Wii U",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-twilight-princess",
+      "familyKey": "zelda-twilight-princess",
+      "slug": "the-legend-of-zelda-twilight-princess",
+      "title": "The Legend of Zelda: Twilight Princess",
+      "platform": "Wii",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-last-of-us",
+      "familyKey": "the-last-of-us",
+      "slug": "the-last-of-us-remastered",
+      "title": "The Last of Us Remastered",
+      "platform": "PlayStation 4",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "red-dead-redemption",
+      "familyKey": "red-dead-redemption",
+      "slug": "red-dead-redemption",
+      "title": "Red Dead Redemption",
+      "platform": "PlayStation 3",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "halo-2",
+      "familyKey": "halo-2",
+      "slug": "halo-2",
+      "title": "Halo 2",
+      "platform": "PC",
+      "score": 72,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "littlebigplanet",
+      "familyKey": "littlebigplanet",
+      "slug": "littlebigplanet",
+      "title": "LittleBigPlanet",
+      "platform": "PSP",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-san-andreas",
+      "familyKey": "grand-theft-auto-san-andreas",
+      "slug": "grand-theft-auto-san-andreas",
+      "title": "Grand Theft Auto: San Andreas",
+      "platform": "PC",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-san-andreas",
+      "familyKey": "grand-theft-auto-san-andreas",
+      "slug": "grand-theft-auto-san-andreas",
+      "title": "Grand Theft Auto: San Andreas",
+      "platform": "Xbox",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-san-andreas",
+      "familyKey": "grand-theft-auto-san-andreas",
+      "slug": "grand-theft-auto-san-andreas",
+      "title": "Grand Theft Auto: San Andreas",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-5-royal",
+      "familyKey": "persona-5",
+      "slug": "persona-5",
+      "title": "Persona 5",
+      "platform": "PlayStation 4",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-5-royal",
+      "familyKey": "persona-5",
+      "slug": "persona-5-royal",
+      "title": "Persona 5 Royal",
+      "platform": "Xbox Series X",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-5-royal",
+      "familyKey": "persona-5",
+      "slug": "persona-5-royal",
+      "title": "Persona 5 Royal",
+      "platform": "PC",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-5-royal",
+      "familyKey": "persona-5",
+      "slug": "persona-5-royal",
+      "title": "Persona 5 Royal",
+      "platform": "PlayStation 5",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-5-royal",
+      "familyKey": "persona-5",
+      "slug": "persona-5-royal",
+      "title": "Persona 5 Royal",
+      "platform": "Nintendo Switch",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "portal-2",
+      "familyKey": "portal-2",
+      "slug": "portal-2",
+      "title": "Portal 2",
+      "platform": "PC",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "portal-2",
+      "familyKey": "portal-2",
+      "slug": "portal-2",
+      "title": "Portal 2",
+      "platform": "PlayStation 3",
+      "score": 95,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-vice-city",
+      "familyKey": "grand-theft-auto-vice-city",
+      "slug": "grand-theft-auto-vice-city",
+      "title": "Grand Theft Auto: Vice City",
+      "platform": "PC",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-legend-of-zelda-majoras-mask",
+      "familyKey": "zelda-majoras-mask",
+      "slug": "the-legend-of-zelda-majoras-mask-3d",
+      "title": "The Legend of Zelda: Majora's Mask 3D",
+      "platform": "3DS",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2003",
+      "familyKey": "madden-nfl-2003",
+      "slug": "madden-nfl-2003",
+      "title": "Madden NFL 2003",
+      "platform": "GameCube",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2003",
+      "familyKey": "madden-nfl-2003",
+      "slug": "madden-nfl-2003",
+      "title": "Madden NFL 2003",
+      "platform": "Xbox",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2003",
+      "familyKey": "madden-nfl-2003",
+      "slug": "madden-nfl-2003",
+      "title": "Madden NFL 2003",
+      "platform": "Game Boy Advance",
+      "score": 76,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2003",
+      "familyKey": "madden-nfl-2003",
+      "slug": "madden-nfl-2003",
+      "title": "Madden NFL 2003",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "metal-gear-solid-v-the-phantom-pain",
+      "familyKey": "metal-gear-solid-v-the-phantom-pain",
+      "slug": "metal-gear-solid-v-the-phantom-pain",
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "platform": "PlayStation 4",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "metal-gear-solid-v-the-phantom-pain",
+      "familyKey": "metal-gear-solid-v-the-phantom-pain",
+      "slug": "metal-gear-solid-v-the-phantom-pain",
+      "title": "Metal Gear Solid V: The Phantom Pain",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "vvvvvv",
+      "familyKey": "vvvvvv",
+      "slug": "vvvvvv",
+      "title": "VVVVVV",
+      "platform": "3DS",
+      "score": 83,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "vvvvvv",
+      "familyKey": "vvvvvv",
+      "slug": "vvvvvv",
+      "title": "VVVVVV",
+      "platform": "PC",
+      "score": 81,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "vvvvvv",
+      "familyKey": "vvvvvv",
+      "slug": "vvvvvv",
+      "title": "VVVVVV",
+      "platform": "Nintendo Switch",
+      "score": 80,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "balatro",
+      "familyKey": "balatro",
+      "slug": "balatro",
+      "title": "Balatro",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "balatro",
+      "familyKey": "balatro",
+      "slug": "balatro",
+      "title": "Balatro",
+      "platform": "PlayStation 5",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "balatro",
+      "familyKey": "balatro",
+      "slug": "balatro",
+      "title": "Balatro",
+      "platform": "Nintendo Switch",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "god-of-war-ragnarok",
+      "familyKey": "god-of-war-ragnarok",
+      "slug": "god-of-war-ragnarok",
+      "title": "God of War: Ragnarok",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "god-of-war",
+      "familyKey": "god-of-war",
+      "slug": "god-of-war",
+      "title": "God of War",
+      "platform": "PC",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "call-of-duty-modern-warfare-2",
+      "familyKey": "call-of-duty-modern-warfare-2",
+      "slug": "call-of-duty-modern-warfare-2",
+      "title": "Call of Duty: Modern Warfare 2",
+      "platform": "PC",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "call-of-duty-modern-warfare-2",
+      "familyKey": "call-of-duty-modern-warfare-2",
+      "slug": "call-of-duty-modern-warfare-2",
+      "title": "Call of Duty: Modern Warfare 2",
+      "platform": "PlayStation 3",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-elder-scrolls-iv-oblivion",
+      "familyKey": "the-elder-scrolls-iv-oblivion",
+      "slug": "the-elder-scrolls-iv-oblivion",
+      "title": "The Elder Scrolls IV: Oblivion",
+      "platform": "PC",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-elder-scrolls-iv-oblivion",
+      "familyKey": "the-elder-scrolls-iv-oblivion",
+      "slug": "the-elder-scrolls-iv-oblivion",
+      "title": "The Elder Scrolls IV: Oblivion",
+      "platform": "PlayStation 3",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "gears-of-war",
+      "familyKey": "gears-of-war",
+      "slug": "gears-of-war",
+      "title": "Gears of War",
+      "platform": "PC",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "halo-3",
+      "familyKey": "halo-3",
+      "slug": "halo-3",
+      "title": "Halo 3",
+      "platform": "PC",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "burnout-3-takedown",
+      "familyKey": "burnout-3-takedown",
+      "slug": "burnout-3-takedown",
+      "title": "Burnout 3: Takedown",
+      "platform": "PlayStation 2",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "star-wars-knights-of-the-old-republic",
+      "familyKey": "star-wars-knights-of-the-old-republic",
+      "slug": "star-wars-knights-of-the-old-republic",
+      "title": "Star Wars: Knights of the Old Republic",
+      "platform": "PC",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "star-wars-knights-of-the-old-republic",
+      "familyKey": "star-wars-knights-of-the-old-republic",
+      "slug": "star-wars-knights-of-the-old-republic",
+      "title": "Star Wars: Knights of the Old Republic",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "star-wars-knights-of-the-old-republic",
+      "familyKey": "star-wars-knights-of-the-old-republic",
+      "slug": "star-wars-knights-of-the-old-republic",
+      "title": "Star Wars: Knights of the Old Republic",
+      "platform": "Nintendo Switch",
+      "score": 83,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-chaos-theory",
+      "familyKey": "tom-clancys-splinter-cell-chaos-theory",
+      "slug": "tom-clancys-splinter-cell-chaos-theory",
+      "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "platform": "3DS",
+      "score": 53,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-chaos-theory",
+      "familyKey": "tom-clancys-splinter-cell-chaos-theory",
+      "slug": "tom-clancys-splinter-cell-chaos-theory",
+      "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-chaos-theory",
+      "familyKey": "tom-clancys-splinter-cell-chaos-theory",
+      "slug": "tom-clancys-splinter-cell-chaos-theory",
+      "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "platform": "PlayStation 2",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-chaos-theory",
+      "familyKey": "tom-clancys-splinter-cell-chaos-theory",
+      "slug": "tom-clancys-splinter-cell-chaos-theory",
+      "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "platform": "GameCube",
+      "score": 81,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-chaos-theory",
+      "familyKey": "tom-clancys-splinter-cell-chaos-theory",
+      "slug": "tom-clancys-splinter-cell-chaos-theory",
+      "title": "Tom Clancy's Splinter Cell: Chaos Theory",
+      "platform": "DS",
+      "score": 50,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "call-of-duty-4-modern-warfare",
+      "familyKey": "call-of-duty-4-modern-warfare",
+      "slug": "call-of-duty-4-modern-warfare",
+      "title": "Call of Duty 4: Modern Warfare",
+      "platform": "PlayStation 3",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "call-of-duty-4-modern-warfare",
+      "familyKey": "call-of-duty-4-modern-warfare",
+      "slug": "call-of-duty-4-modern-warfare",
+      "title": "Call of Duty 4: Modern Warfare",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "call-of-duty-4-modern-warfare",
+      "familyKey": "call-of-duty-4-modern-warfare",
+      "slug": "call-of-duty-4-modern-warfare",
+      "title": "Call of Duty 4: Modern Warfare",
+      "platform": "DS",
+      "score": 75,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "call-of-duty-4-modern-warfare",
+      "familyKey": "call-of-duty-4-modern-warfare",
+      "slug": "call-of-duty-4-modern-warfare",
+      "title": "Call of Duty 4: Modern Warfare",
+      "platform": "Wii",
+      "score": 76,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bioshock-infinite",
+      "familyKey": "bioshock-infinite",
+      "slug": "bioshock-infinite",
+      "title": "BioShock Infinite",
+      "platform": "PlayStation 3",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bioshock-infinite",
+      "familyKey": "bioshock-infinite",
+      "slug": "bioshock-infinite",
+      "title": "BioShock Infinite",
+      "platform": "Xbox 360",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-iv",
+      "familyKey": "street-fighter-iv",
+      "slug": "street-fighter-iv",
+      "title": "Street Fighter IV",
+      "platform": "Xbox 360",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-iv",
+      "familyKey": "street-fighter-iv",
+      "slug": "street-fighter-iv",
+      "title": "Street Fighter IV",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-iv",
+      "familyKey": "street-fighter-iv",
+      "slug": "street-fighter-iv",
+      "title": "Street Fighter IV",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-iv",
+      "familyKey": "street-fighter-iv",
+      "slug": "super-street-fighter-iv",
+      "title": "Super Street Fighter IV",
+      "platform": "Xbox 360",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-iv",
+      "familyKey": "street-fighter-iv",
+      "slug": "super-street-fighter-iv",
+      "title": "Super Street Fighter IV",
+      "platform": "PlayStation 3",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-iv",
+      "familyKey": "street-fighter-iv",
+      "slug": "super-street-fighter-iv",
+      "title": "Super Street Fighter IV",
+      "platform": "3DS",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "metaphor-refantazio",
+      "familyKey": "metaphor-refantazio",
+      "slug": "metaphor-refantazio",
+      "title": "Metaphor: ReFantazio",
+      "platform": "Xbox Series X",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "metaphor-refantazio",
+      "familyKey": "metaphor-refantazio",
+      "slug": "metaphor-refantazio",
+      "title": "Metaphor: ReFantazio",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "metal-gear-solid-3-subsistence",
+      "familyKey": "metal-gear-solid-3",
+      "slug": "metal-gear-solid-3-snake-eater",
+      "title": "Metal Gear Solid 3: Snake Eater",
+      "platform": "PlayStation 2",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "metal-gear-solid-3-subsistence",
+      "familyKey": "metal-gear-solid-3",
+      "slug": "metal-gear-solid-3-snake-eater",
+      "title": "Metal Gear Solid 3: Snake Eater",
+      "platform": "3DS",
+      "score": 78,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "devil-may-cry",
+      "familyKey": "devil-may-cry",
+      "slug": "devil-may-cry",
+      "title": "Devil May Cry",
+      "platform": "Nintendo Switch",
+      "score": 74,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt-remastered",
+      "title": "The Witcher 3: Wild Hunt - Remastered",
+      "platform": "Nintendo Switch 2",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt-remastered",
+      "title": "The Witcher 3: Wild Hunt - Remastered",
+      "platform": "PlayStation 5",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt-remastered",
+      "title": "The Witcher 3: Wild Hunt - Remastered",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt-remastered",
+      "title": "The Witcher 3: Wild Hunt - Remastered",
+      "platform": "Xbox Series X",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt-complete-edition",
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "platform": "Nintendo Switch",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt-complete-edition",
+      "title": "The Witcher 3: Wild Hunt - Complete Edition",
+      "platform": "Xbox Series X",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt",
+      "title": "The Witcher 3: Wild Hunt",
+      "platform": "PC",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt",
+      "title": "The Witcher 3: Wild Hunt",
+      "platform": "Xbox One",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-witcher-3-wild-hunt-complete-edition",
+      "familyKey": "the-witcher-3",
+      "slug": "the-witcher-3-wild-hunt",
+      "title": "The Witcher 3: Wild Hunt",
+      "platform": "PlayStation 4",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "virtua-fighter-4",
+      "familyKey": "virtua-fighter-4",
+      "slug": "virtua-fighter-4-evolution",
+      "title": "Virtua Fighter 4: Evolution",
+      "platform": "PlayStation 2",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ninja-gaiden-black",
+      "familyKey": "ninja-gaiden",
+      "slug": "ninja-gaiden-2004",
+      "title": "Ninja Gaiden (2004)",
+      "platform": "Xbox",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2004",
+      "familyKey": "madden-nfl-2004",
+      "slug": "madden-nfl-2004",
+      "title": "Madden NFL 2004",
+      "platform": "GameCube",
+      "score": 94,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2004",
+      "familyKey": "madden-nfl-2004",
+      "slug": "madden-nfl-2004",
+      "title": "Madden NFL 2004",
+      "platform": "Game Boy Advance",
+      "score": 70,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2004",
+      "familyKey": "madden-nfl-2004",
+      "slug": "madden-nfl-2004",
+      "title": "Madden NFL 2004",
+      "platform": "Xbox",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2004",
+      "familyKey": "madden-nfl-2004",
+      "slug": "madden-nfl-2004",
+      "title": "Madden NFL 2004",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-4",
+      "familyKey": "tony-hawks-pro-skater-4",
+      "slug": "tony-hawks-pro-skater-4",
+      "title": "Tony Hawk's Pro Skater 4",
+      "platform": "GameCube",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-4",
+      "familyKey": "tony-hawks-pro-skater-4",
+      "slug": "tony-hawks-pro-skater-4",
+      "title": "Tony Hawk's Pro Skater 4",
+      "platform": "Xbox",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-4",
+      "familyKey": "tony-hawks-pro-skater-4",
+      "slug": "tony-hawks-pro-skater-4",
+      "title": "Tony Hawk's Pro Skater 4",
+      "platform": "Game Boy Advance",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tony-hawks-pro-skater-4",
+      "familyKey": "tony-hawks-pro-skater-4",
+      "slug": "tony-hawks-pro-skater-4",
+      "title": "Tony Hawk's Pro Skater 4",
+      "platform": "PC",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "jet-set-radio-2000",
+      "familyKey": "jet-set-radio-2000",
+      "slug": "jet-set-radio-2000",
+      "title": "Jet Set Radio (2000)",
+      "platform": "PlayStation 3",
+      "score": 75,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "jet-set-radio-2000",
+      "familyKey": "jet-set-radio-2000",
+      "slug": "jet-set-radio-2000",
+      "title": "Jet Set Radio (2000)",
+      "platform": "Xbox 360",
+      "score": 70,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "jet-set-radio-2000",
+      "familyKey": "jet-set-radio-2000",
+      "slug": "jet-set-radio-2000",
+      "title": "Jet Set Radio (2000)",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 58,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2002",
+      "familyKey": "madden-nfl-2002",
+      "slug": "madden-nfl-2002",
+      "title": "Madden NFL 2002",
+      "platform": "GameCube",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2002",
+      "familyKey": "madden-nfl-2002",
+      "slug": "madden-nfl-2002",
+      "title": "Madden NFL 2002",
+      "platform": "PC",
+      "score": 71,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2002",
+      "familyKey": "madden-nfl-2002",
+      "slug": "madden-nfl-2002",
+      "title": "Madden NFL 2002",
+      "platform": "PlayStation",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2002",
+      "familyKey": "madden-nfl-2002",
+      "slug": "madden-nfl-2002",
+      "title": "Madden NFL 2002",
+      "platform": "Nintendo 64",
+      "score": 78,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "madden-nfl-2002",
+      "familyKey": "madden-nfl-2002",
+      "slug": "madden-nfl-2002",
+      "title": "Madden NFL 2002",
+      "platform": "Xbox",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-ix",
+      "familyKey": "final-fantasy-ix",
+      "slug": "final-fantasy-ix",
+      "title": "Final Fantasy IX",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-ix",
+      "familyKey": "final-fantasy-ix",
+      "slug": "final-fantasy-ix",
+      "title": "Final Fantasy IX",
+      "platform": "PC",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-ix",
+      "familyKey": "final-fantasy-ix",
+      "slug": "final-fantasy-ix",
+      "title": "Final Fantasy IX",
+      "platform": "PlayStation 4",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-ix",
+      "familyKey": "final-fantasy-ix",
+      "slug": "final-fantasy-ix",
+      "title": "Final Fantasy IX",
+      "platform": "Nintendo Switch",
+      "score": 76,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tetris-effect-connected",
+      "familyKey": "tetris-effect",
+      "slug": "tetris-effect",
+      "title": "Tetris Effect",
+      "platform": "PlayStation 4",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tetris-effect-connected",
+      "familyKey": "tetris-effect",
+      "slug": "tetris-effect",
+      "title": "Tetris Effect",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tetris-effect-connected",
+      "familyKey": "tetris-effect",
+      "slug": "tetris-effect-connected",
+      "title": "Tetris Effect: Connected",
+      "platform": "Xbox One",
+      "score": 80,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tetris-effect-connected",
+      "familyKey": "tetris-effect",
+      "slug": "tetris-effect-connected",
+      "title": "Tetris Effect: Connected",
+      "platform": "Xbox Series X",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tetris-effect-connected",
+      "familyKey": "tetris-effect",
+      "slug": "tetris-effect-connected",
+      "title": "Tetris Effect: Connected",
+      "platform": "PC",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tetris-effect-connected",
+      "familyKey": "tetris-effect",
+      "slug": "tetris-effect-connected",
+      "title": "Tetris Effect: Connected",
+      "platform": "PlayStation 5",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ncaa-football-2004",
+      "familyKey": "ncaa-football-2004",
+      "slug": "ncaa-football-2004",
+      "title": "NCAA Football 2004",
+      "platform": "Xbox",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ncaa-football-2004",
+      "familyKey": "ncaa-football-2004",
+      "slug": "ncaa-football-2004",
+      "title": "NCAA Football 2004",
+      "platform": "GameCube",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "super-mario-64",
+      "familyKey": "super-mario-64",
+      "slug": "super-mario-64-ds",
+      "title": "Super Mario 64 DS",
+      "platform": "DS",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bastion",
+      "familyKey": "bastion",
+      "slug": "bastion",
+      "title": "Bastion",
+      "platform": "PC",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bastion",
+      "familyKey": "bastion",
+      "slug": "bastion",
+      "title": "Bastion",
+      "platform": "Xbox 360",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bastion",
+      "familyKey": "bastion",
+      "slug": "bastion",
+      "title": "Bastion",
+      "platform": "PlayStation 4",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bastion",
+      "familyKey": "bastion",
+      "slug": "bastion",
+      "title": "Bastion",
+      "platform": "Xbox One",
+      "score": 83,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bastion",
+      "familyKey": "bastion",
+      "slug": "bastion",
+      "title": "Bastion",
+      "platform": "Nintendo Switch",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "celeste",
+      "familyKey": "celeste",
+      "slug": "celeste",
+      "title": "Celeste",
+      "platform": "PlayStation 4",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "celeste",
+      "familyKey": "celeste",
+      "slug": "celeste",
+      "title": "Celeste",
+      "platform": "Nintendo Switch",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "celeste",
+      "familyKey": "celeste",
+      "slug": "celeste",
+      "title": "Celeste",
+      "platform": "PC",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "quake",
+      "familyKey": "quake",
+      "slug": "quake",
+      "title": "Quake",
+      "platform": "Nintendo 64",
+      "score": 74,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "n-o-v-a-near-orbit-vanguard-alliance",
+      "familyKey": "n-o-v-a-near-orbit-vanguard-alliance",
+      "slug": "n-o-v-a-near-orbit-vanguard-alliance",
+      "title": "N.O.V.A. - Near Orbit Vanguard Alliance",
+      "platform": "PSP",
+      "score": 48,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "n-o-v-a-near-orbit-vanguard-alliance",
+      "familyKey": "n-o-v-a-near-orbit-vanguard-alliance",
+      "slug": "n-o-v-a-near-orbit-vanguard-alliance",
+      "title": "N.O.V.A. - Near Orbit Vanguard Alliance",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 65,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "geometry-wars-3-dimensions",
+      "familyKey": "geometry-wars-3-dimensions",
+      "slug": "geometry-wars-3-dimensions",
+      "title": "Geometry Wars 3: Dimensions",
+      "platform": "PlayStation 4",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "geometry-wars-3-dimensions",
+      "familyKey": "geometry-wars-3-dimensions",
+      "slug": "geometry-wars-3-dimensions",
+      "title": "Geometry Wars 3: Dimensions",
+      "platform": "Xbox One",
+      "score": 82,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "geometry-wars-3-dimensions",
+      "familyKey": "geometry-wars-3-dimensions",
+      "slug": "geometry-wars-3-dimensions",
+      "title": "Geometry Wars 3: Dimensions",
+      "platform": "PC",
+      "score": 79,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-walking-dead-a-telltale-games-series",
+      "familyKey": "the-walking-dead-a-telltale-games-series",
+      "slug": "the-walking-dead-a-telltale-games-series",
+      "title": "The Walking Dead: A Telltale Games Series",
+      "platform": "Xbox 360",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-walking-dead-a-telltale-games-series",
+      "familyKey": "the-walking-dead-a-telltale-games-series",
+      "slug": "the-walking-dead-a-telltale-games-series",
+      "title": "The Walking Dead: A Telltale Games Series",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tsukihime-a-piece-of-blue-glass-moon",
+      "familyKey": "tsukihime-a-piece-of-blue-glass-moon",
+      "slug": "tsukihime-a-piece-of-blue-glass-moon",
+      "title": "Tsukihime: A Piece of Blue Glass Moon",
+      "platform": "Nintendo Switch",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hollow-knight-silksong",
+      "familyKey": "hollow-knight-silksong",
+      "slug": "hollow-knight-silksong",
+      "title": "Hollow Knight: Silksong",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hollow-knight-silksong",
+      "familyKey": "hollow-knight-silksong",
+      "slug": "hollow-knight-silksong",
+      "title": "Hollow Knight: Silksong",
+      "platform": "PlayStation 5",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hollow-knight-silksong",
+      "familyKey": "hollow-knight-silksong",
+      "slug": "hollow-knight-silksong",
+      "title": "Hollow Knight: Silksong",
+      "platform": "Xbox Series X",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hollow-knight-silksong",
+      "familyKey": "hollow-knight-silksong",
+      "slug": "hollow-knight-silksong",
+      "title": "Hollow Knight: Silksong",
+      "platform": "Nintendo Switch 2",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-last-of-us-part-ii",
+      "familyKey": "the-last-of-us-part-ii",
+      "slug": "the-last-of-us-part-ii-remastered",
+      "title": "The Last of Us Part II Remastered",
+      "platform": "PlayStation 5",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-last-of-us-part-ii",
+      "familyKey": "the-last-of-us-part-ii",
+      "slug": "the-last-of-us-part-ii-remastered",
+      "title": "The Last of Us Part II Remastered",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "inside",
+      "familyKey": "inside",
+      "slug": "inside",
+      "title": "INSIDE",
+      "platform": "PC",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "inside",
+      "familyKey": "inside",
+      "slug": "inside",
+      "title": "INSIDE",
+      "platform": "PlayStation 4",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "inside",
+      "familyKey": "inside",
+      "slug": "inside",
+      "title": "INSIDE",
+      "platform": "Nintendo Switch",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-chinatown-wars",
+      "familyKey": "grand-theft-auto-chinatown-wars",
+      "slug": "grand-theft-auto-chinatown-wars",
+      "title": "Grand Theft Auto: Chinatown Wars",
+      "platform": "PSP",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "grand-theft-auto-chinatown-wars",
+      "familyKey": "grand-theft-auto-chinatown-wars",
+      "slug": "grand-theft-auto-chinatown-wars",
+      "title": "Grand Theft Auto: Chinatown Wars",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "fallout-3",
+      "familyKey": "fallout-3",
+      "slug": "fallout-3",
+      "title": "Fallout 3",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "fallout-3",
+      "familyKey": "fallout-3",
+      "slug": "fallout-3",
+      "title": "Fallout 3",
+      "platform": "PlayStation 3",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "super-mario-3d-world",
+      "familyKey": "super-mario-3d-world",
+      "slug": "super-mario-3d-world-plus-bowsers-fury",
+      "title": "Super Mario 3D World + Bowser's Fury",
+      "platform": "Nintendo Switch",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "familyKey": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "slug": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+      "platform": "PlayStation 2",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "familyKey": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "slug": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+      "platform": "PC",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "familyKey": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "slug": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+      "platform": "GameCube",
+      "score": 78,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "familyKey": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "slug": "tom-clancys-splinter-cell-pandora-tomorrow",
+      "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+      "platform": "Game Boy Advance",
+      "score": 68,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mass-effect-3",
+      "familyKey": "mass-effect-3",
+      "slug": "mass-effect-3",
+      "title": "Mass Effect 3",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mass-effect-3",
+      "familyKey": "mass-effect-3",
+      "slug": "mass-effect-3",
+      "title": "Mass Effect 3",
+      "platform": "PlayStation 3",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mass-effect-3",
+      "familyKey": "mass-effect-3",
+      "slug": "mass-effect-3",
+      "title": "Mass Effect 3",
+      "platform": "Wii U",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "okami",
+      "familyKey": "okami",
+      "slug": "okami",
+      "title": "Okami",
+      "platform": "Wii",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "okami",
+      "familyKey": "okami",
+      "slug": "okami-hd",
+      "title": "Okami HD",
+      "platform": "PlayStation 3",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "okami",
+      "familyKey": "okami",
+      "slug": "okami-hd",
+      "title": "Okami HD",
+      "platform": "Xbox One",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "okami",
+      "familyKey": "okami",
+      "slug": "okami-hd",
+      "title": "Okami HD",
+      "platform": "PlayStation 4",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "okami",
+      "familyKey": "okami",
+      "slug": "okami-hd",
+      "title": "Okami HD",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "okami",
+      "familyKey": "okami",
+      "slug": "okami-hd",
+      "title": "Okami HD",
+      "platform": "Nintendo Switch",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-4-golden",
+      "familyKey": "persona-4",
+      "slug": "shin-megami-tensei-persona-4",
+      "title": "Shin Megami Tensei: Persona 4",
+      "platform": "PlayStation 2",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-4-golden",
+      "familyKey": "persona-4",
+      "slug": "persona-4-golden",
+      "title": "Persona 4 Golden",
+      "platform": "PC",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-4-golden",
+      "familyKey": "persona-4",
+      "slug": "persona-4-golden",
+      "title": "Persona 4 Golden",
+      "platform": "Xbox Series X",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-4-golden",
+      "familyKey": "persona-4",
+      "slug": "persona-4-golden",
+      "title": "Persona 4 Golden",
+      "platform": "PlayStation 4",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "persona-4-golden",
+      "familyKey": "persona-4",
+      "slug": "persona-4-golden",
+      "title": "Persona 4 Golden",
+      "platform": "Nintendo Switch",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hades",
+      "familyKey": "hades",
+      "slug": "hades",
+      "title": "Hades",
+      "platform": "Nintendo Switch",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hades",
+      "familyKey": "hades",
+      "slug": "hades",
+      "title": "Hades",
+      "platform": "Xbox Series X",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hades",
+      "familyKey": "hades",
+      "slug": "hades",
+      "title": "Hades",
+      "platform": "PlayStation 5",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "braid",
+      "familyKey": "braid",
+      "slug": "braid",
+      "title": "Braid",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "braid",
+      "familyKey": "braid",
+      "slug": "braid",
+      "title": "Braid",
+      "platform": "PlayStation 3",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rock-band-3",
+      "familyKey": "rock-band-3",
+      "slug": "rock-band-3",
+      "title": "Rock Band 3",
+      "platform": "PlayStation 3",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rock-band-3",
+      "familyKey": "rock-band-3",
+      "slug": "rock-band-3",
+      "title": "Rock Band 3",
+      "platform": "Wii",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rock-band-3",
+      "familyKey": "rock-band-3",
+      "slug": "rock-band-3",
+      "title": "Rock Band 3",
+      "platform": "DS",
+      "score": 79,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "company-of-heroes",
+      "familyKey": "company-of-heroes",
+      "slug": "company-of-heroes",
+      "title": "Company of Heroes",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "viewtiful-joe",
+      "familyKey": "viewtiful-joe",
+      "slug": "viewtiful-joe",
+      "title": "Viewtiful Joe",
+      "platform": "PlayStation 2",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell",
+      "familyKey": "tom-clancys-splinter-cell",
+      "slug": "tom-clancys-splinter-cell",
+      "title": "Tom Clancy's Splinter Cell",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell",
+      "familyKey": "tom-clancys-splinter-cell",
+      "slug": "tom-clancys-splinter-cell",
+      "title": "Tom Clancy's Splinter Cell",
+      "platform": "PlayStation 2",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell",
+      "familyKey": "tom-clancys-splinter-cell",
+      "slug": "tom-clancys-splinter-cell",
+      "title": "Tom Clancy's Splinter Cell",
+      "platform": "GameCube",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tom-clancys-splinter-cell",
+      "familyKey": "tom-clancys-splinter-cell",
+      "slug": "tom-clancys-splinter-cell",
+      "title": "Tom Clancy's Splinter Cell",
+      "platform": "Game Boy Advance",
+      "score": 77,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "soulcalibur-ii",
+      "familyKey": "soulcalibur-ii",
+      "slug": "soulcalibur-ii",
+      "title": "SoulCalibur II",
+      "platform": "PlayStation 2",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "soulcalibur-ii",
+      "familyKey": "soulcalibur-ii",
+      "slug": "soulcalibur-ii",
+      "title": "SoulCalibur II",
+      "platform": "Xbox",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "pac-man-championship-edition-dx",
+      "familyKey": "pac-man-championship-edition-dx",
+      "slug": "pac-man-championship-edition-dx",
+      "title": "Pac-Man Championship Edition DX",
+      "platform": "PlayStation 3",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "pac-man-championship-edition-dx",
+      "familyKey": "pac-man-championship-edition-dx",
+      "slug": "pac-man-championship-edition-dx",
+      "title": "Pac-Man Championship Edition DX",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ssx-3",
+      "familyKey": "ssx-3",
+      "slug": "ssx-3",
+      "title": "SSX 3",
+      "platform": "Game Boy Advance",
+      "score": 63,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ssx-3",
+      "familyKey": "ssx-3",
+      "slug": "ssx-3",
+      "title": "SSX 3",
+      "platform": "Xbox",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ssx-3",
+      "familyKey": "ssx-3",
+      "slug": "ssx-3",
+      "title": "SSX 3",
+      "platform": "GameCube",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "minecraft",
+      "familyKey": "minecraft",
+      "slug": "minecraft",
+      "title": "Minecraft",
+      "platform": "Nintendo Switch",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "minecraft",
+      "familyKey": "minecraft",
+      "slug": "minecraft",
+      "title": "Minecraft",
+      "platform": "3DS",
+      "score": 62,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "minecraft",
+      "familyKey": "minecraft",
+      "slug": "minecraft",
+      "title": "Minecraft",
+      "platform": "PlayStation 3",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "minecraft",
+      "familyKey": "minecraft",
+      "slug": "minecraft",
+      "title": "Minecraft",
+      "platform": "PlayStation 4",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "minecraft",
+      "familyKey": "minecraft",
+      "slug": "minecraft",
+      "title": "Minecraft",
+      "platform": "PlayStation Vita",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "minecraft",
+      "familyKey": "minecraft",
+      "slug": "minecraft",
+      "title": "Minecraft",
+      "platform": "Wii U",
+      "score": 77,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "minecraft",
+      "familyKey": "minecraft",
+      "slug": "minecraft",
+      "title": "Minecraft",
+      "platform": "Xbox 360",
+      "score": 82,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "minecraft",
+      "familyKey": "minecraft",
+      "slug": "minecraft",
+      "title": "Minecraft",
+      "platform": "Xbox One",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-2",
+      "familyKey": "resident-evil-2",
+      "slug": "resident-evil-2-1998",
+      "title": "Resident Evil 2 (1998)",
+      "platform": "Nintendo 64",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-2",
+      "familyKey": "resident-evil-2",
+      "slug": "resident-evil-2-1998",
+      "title": "Resident Evil 2 (1998)",
+      "platform": "PlayStation",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-2",
+      "familyKey": "resident-evil-2",
+      "slug": "resident-evil-2-1998",
+      "title": "Resident Evil 2 (1998)",
+      "platform": "Dreamcast",
+      "score": 77,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-2",
+      "familyKey": "resident-evil-2",
+      "slug": "resident-evil-2-1998",
+      "title": "Resident Evil 2 (1998)",
+      "platform": "GameCube",
+      "score": 59,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-2",
+      "familyKey": "resident-evil-2",
+      "slug": "resident-evil-2",
+      "title": "Resident Evil 2",
+      "platform": "PlayStation 4",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-2",
+      "familyKey": "resident-evil-2",
+      "slug": "resident-evil-2",
+      "title": "Resident Evil 2",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-2",
+      "familyKey": "resident-evil-2",
+      "slug": "resident-evil-2-deluxe-edition",
+      "title": "Resident Evil 2: Deluxe Edition",
+      "platform": "Nintendo Switch 2",
+      "score": 93,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "world-soccer-winning-eleven-7-international",
+      "familyKey": "world-soccer-winning-eleven-7-international",
+      "slug": "world-soccer-winning-eleven-7-international",
+      "title": "World Soccer Winning Eleven 7 International",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ori-and-the-will-of-the-wisps",
+      "familyKey": "ori-and-the-will-of-the-wisps",
+      "slug": "ori-and-the-will-of-the-wisps",
+      "title": "Ori and the Will of the Wisps",
+      "platform": "Xbox One",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ori-and-the-will-of-the-wisps",
+      "familyKey": "ori-and-the-will-of-the-wisps",
+      "slug": "ori-and-the-will-of-the-wisps",
+      "title": "Ori and the Will of the Wisps",
+      "platform": "PC",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ori-and-the-will-of-the-wisps",
+      "familyKey": "ori-and-the-will-of-the-wisps",
+      "slug": "ori-and-the-will-of-the-wisps",
+      "title": "Ori and the Will of the Wisps",
+      "platform": "Xbox Series X",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "skies-of-arcadia",
+      "familyKey": "skies-of-arcadia",
+      "slug": "skies-of-arcadia",
+      "title": "Skies of Arcadia",
+      "platform": "GameCube",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "nfl-2k3",
+      "familyKey": "nfl-2k3",
+      "slug": "nfl-2k3",
+      "title": "NFL 2K3",
+      "platform": "GameCube",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "test-drive-le-mans",
+      "familyKey": "test-drive-le-mans",
+      "slug": "test-drive-le-mans",
+      "title": "Test Drive Le Mans",
+      "platform": "PlayStation 2",
+      "score": 75,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "test-drive-le-mans",
+      "familyKey": "test-drive-le-mans",
+      "slug": "test-drive-le-mans",
+      "title": "Test Drive Le Mans",
+      "platform": "PC",
+      "score": 60,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "cut-the-rope",
+      "familyKey": "cut-the-rope",
+      "slug": "cut-the-rope",
+      "title": "Cut the Rope",
+      "platform": "DS",
+      "score": 66,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "hearthstone-heroes-of-warcraft",
+      "familyKey": "hearthstone-heroes-of-warcraft",
+      "slug": "hearthstone-heroes-of-warcraft",
+      "title": "Hearthstone: Heroes of Warcraft",
+      "platform": "PC",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "split-fiction",
+      "familyKey": "split-fiction",
+      "slug": "split-fiction",
+      "title": "Split Fiction",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "split-fiction",
+      "familyKey": "split-fiction",
+      "slug": "split-fiction",
+      "title": "Split Fiction",
+      "platform": "PlayStation 5",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "split-fiction",
+      "familyKey": "split-fiction",
+      "slug": "split-fiction",
+      "title": "Split Fiction",
+      "platform": "Nintendo Switch 2",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-requiem",
+      "familyKey": "resident-evil-requiem",
+      "slug": "resident-evil-requiem",
+      "title": "Resident Evil Requiem",
+      "platform": "PlayStation 5",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-requiem",
+      "familyKey": "resident-evil-requiem",
+      "slug": "resident-evil-requiem",
+      "title": "Resident Evil Requiem",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "resident-evil-requiem",
+      "familyKey": "resident-evil-requiem",
+      "slug": "resident-evil-requiem",
+      "title": "Resident Evil Requiem",
+      "platform": "Nintendo Switch 2",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "sonic-cd",
+      "familyKey": "sonic-cd",
+      "slug": "sonic-cd",
+      "title": "Sonic CD",
+      "platform": "PlayStation 3",
+      "score": 80,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "sonic-cd",
+      "familyKey": "sonic-cd",
+      "slug": "sonic-cd",
+      "title": "Sonic CD",
+      "platform": "Xbox 360",
+      "score": 82,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "castlevania-symphony-of-the-night",
+      "familyKey": "castlevania-symphony-of-the-night",
+      "slug": "castlevania-symphony-of-the-night",
+      "title": "Castlevania: Symphony of the Night",
+      "platform": "Xbox 360",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "castlevania-symphony-of-the-night",
+      "familyKey": "castlevania-symphony-of-the-night",
+      "slug": "castlevania-symphony-of-the-night",
+      "title": "Castlevania: Symphony of the Night",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-alpha-3",
+      "familyKey": "street-fighter-alpha-3",
+      "slug": "street-fighter-alpha-3",
+      "title": "Street Fighter Alpha 3",
+      "platform": "Game Boy Advance",
+      "score": 83,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-alpha-3",
+      "familyKey": "street-fighter-alpha-3",
+      "slug": "street-fighter-alpha-3",
+      "title": "Street Fighter Alpha 3",
+      "platform": "PSP",
+      "score": 80,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "nba-2k2",
+      "familyKey": "nba-2k2",
+      "slug": "nba-2k2",
+      "title": "NBA 2K2",
+      "platform": "PlayStation 2",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "nba-2k2",
+      "familyKey": "nba-2k2",
+      "slug": "nba-2k2",
+      "title": "NBA 2K2",
+      "platform": "GameCube",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "nba-2k2",
+      "familyKey": "nba-2k2",
+      "slug": "nba-2k2",
+      "title": "NBA 2K2",
+      "platform": "Xbox",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "crashlands",
+      "familyKey": "crashlands",
+      "slug": "crashlands",
+      "title": "Crashlands",
+      "platform": "PC",
+      "score": 78,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "crashlands",
+      "familyKey": "crashlands",
+      "slug": "crashlands",
+      "title": "Crashlands",
+      "platform": "Nintendo Switch",
+      "score": 75,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "beat-saber",
+      "familyKey": "beat-saber",
+      "slug": "beat-saber",
+      "title": "Beat Saber",
+      "platform": "PlayStation 4",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "undertale",
+      "familyKey": "undertale",
+      "slug": "undertale",
+      "title": "Undertale",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "undertale",
+      "familyKey": "undertale",
+      "slug": "undertale",
+      "title": "Undertale",
+      "platform": "PlayStation 4",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-stanley-parable-ultra-deluxe",
+      "familyKey": "the-stanley-parable",
+      "slug": "the-stanley-parable-ultra-deluxe",
+      "title": "The Stanley Parable: Ultra Deluxe",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-stanley-parable-ultra-deluxe",
+      "familyKey": "the-stanley-parable",
+      "slug": "the-stanley-parable-ultra-deluxe",
+      "title": "The Stanley Parable: Ultra Deluxe",
+      "platform": "PlayStation 5",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-stanley-parable-ultra-deluxe",
+      "familyKey": "the-stanley-parable",
+      "slug": "the-stanley-parable-ultra-deluxe",
+      "title": "The Stanley Parable: Ultra Deluxe",
+      "platform": "Nintendo Switch",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "sektori",
+      "familyKey": "sektori",
+      "slug": "sektori",
+      "title": "Sektori",
+      "platform": "PlayStation 5",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "sektori",
+      "familyKey": "sektori",
+      "slug": "sektori",
+      "title": "Sektori",
+      "platform": "Nintendo Switch 2",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "cave-story",
+      "familyKey": "cave-story",
+      "slug": "cave-story",
+      "title": "Cave Story",
+      "platform": "Wii",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii-rebirth",
+      "title": "Final Fantasy VII Rebirth",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii-rebirth",
+      "title": "Final Fantasy VII Rebirth",
+      "platform": "Nintendo Switch 2",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii-rebirth",
+      "title": "Final Fantasy VII Rebirth",
+      "platform": "Xbox Series X",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii-remake-intergrade",
+      "title": "Final Fantasy VII Remake Intergrade",
+      "platform": "PlayStation 5",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii-remake-intergrade",
+      "title": "Final Fantasy VII Remake Intergrade",
+      "platform": "PC",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii-remake-intergrade",
+      "title": "Final Fantasy VII Remake Intergrade",
+      "platform": "Nintendo Switch 2",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii-remake-intergrade",
+      "title": "Final Fantasy VII Remake Intergrade",
+      "platform": "Xbox Series X",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii",
+      "title": "Final Fantasy VII",
+      "platform": "PlayStation",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii",
+      "title": "Final Fantasy VII",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 77,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vii-rebirth",
+      "familyKey": "final-fantasy-vii",
+      "slug": "final-fantasy-vii",
+      "title": "Final Fantasy VII",
+      "platform": "Nintendo Switch",
+      "score": 81,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "forza-horizon-5",
+      "familyKey": "forza-horizon-5",
+      "slug": "forza-horizon-5",
+      "title": "Forza Horizon 5",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "forza-horizon-5",
+      "familyKey": "forza-horizon-5",
+      "slug": "forza-horizon-5",
+      "title": "Forza Horizon 5",
+      "platform": "PlayStation 5",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "demons-souls",
+      "familyKey": "demons-souls",
+      "slug": "demons-souls-2009",
+      "title": "Demon's Souls (2009)",
+      "platform": "PlayStation 3",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-6",
+      "familyKey": "street-fighter-6",
+      "slug": "street-fighter-6",
+      "title": "Street Fighter 6",
+      "platform": "Xbox Series X",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-6",
+      "familyKey": "street-fighter-6",
+      "slug": "street-fighter-6",
+      "title": "Street Fighter 6",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "street-fighter-6",
+      "familyKey": "street-fighter-6",
+      "slug": "street-fighter-6",
+      "title": "Street Fighter 6",
+      "platform": "Nintendo Switch 2",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mario-kart-8-deluxe",
+      "familyKey": "mario-kart-8",
+      "slug": "mario-kart-8",
+      "title": "Mario Kart 8",
+      "platform": "Wii U",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "forza-horizon-4",
+      "familyKey": "forza-horizon-4",
+      "slug": "forza-horizon-4",
+      "title": "Forza Horizon 4",
+      "platform": "PC",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "clair-obscur-expedition-33",
+      "familyKey": "clair-obscur-expedition-33",
+      "slug": "clair-obscur-expedition-33",
+      "title": "Clair Obscur: Expedition 33",
+      "platform": "Xbox Series X",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "clair-obscur-expedition-33",
+      "familyKey": "clair-obscur-expedition-33",
+      "slug": "clair-obscur-expedition-33",
+      "title": "Clair Obscur: Expedition 33",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "batman-arkham-asylum",
+      "familyKey": "batman-arkham-asylum",
+      "slug": "batman-arkham-asylum",
+      "title": "Batman: Arkham Asylum",
+      "platform": "PlayStation 3",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "batman-arkham-asylum",
+      "familyKey": "batman-arkham-asylum",
+      "slug": "batman-arkham-asylum",
+      "title": "Batman: Arkham Asylum",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "journey",
+      "familyKey": "journey",
+      "slug": "journey",
+      "title": "Journey",
+      "platform": "PlayStation 4",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "super-smash-bros-for-nintendo-3ds-wii-u",
+      "familyKey": "super-smash-bros-for-nintendo-3ds-wii-u",
+      "slug": "super-smash-bros-for-nintendo-3ds-wii-u",
+      "title": "Super Smash Bros. for Nintendo 3DS / Wii U",
+      "platform": "3DS",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rock-band",
+      "familyKey": "rock-band",
+      "slug": "rock-band",
+      "title": "Rock Band",
+      "platform": "PlayStation 3",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rock-band",
+      "familyKey": "rock-band",
+      "slug": "rock-band",
+      "title": "Rock Band",
+      "platform": "PlayStation 2",
+      "score": 82,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rock-band",
+      "familyKey": "rock-band",
+      "slug": "rock-band",
+      "title": "Rock Band",
+      "platform": "Wii",
+      "score": 80,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "guitar-hero-ii",
+      "familyKey": "guitar-hero-ii",
+      "slug": "guitar-hero-ii",
+      "title": "Guitar Hero II",
+      "platform": "Xbox 360",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rock-band-2",
+      "familyKey": "rock-band-2",
+      "slug": "rock-band-2",
+      "title": "Rock Band 2",
+      "platform": "PlayStation 3",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rock-band-2",
+      "familyKey": "rock-band-2",
+      "slug": "rock-band-2",
+      "title": "Rock Band 2",
+      "platform": "Wii",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "blue-prince",
+      "familyKey": "blue-prince",
+      "slug": "blue-prince",
+      "title": "Blue Prince",
+      "platform": "PlayStation 5",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "blue-prince",
+      "familyKey": "blue-prince",
+      "slug": "blue-prince",
+      "title": "Blue Prince",
+      "platform": "Xbox Series X",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "blue-prince",
+      "familyKey": "blue-prince",
+      "slug": "blue-prince",
+      "title": "Blue Prince",
+      "platform": "Nintendo Switch 2",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xenoblade-chronicles",
+      "familyKey": "xenoblade-chronicles",
+      "slug": "xenoblade-chronicles-definitive-edition",
+      "title": "Xenoblade Chronicles: Definitive Edition",
+      "platform": "Nintendo Switch",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xenoblade-chronicles",
+      "familyKey": "xenoblade-chronicles",
+      "slug": "xenoblade-chronicles-definitive-edition",
+      "title": "Xenoblade Chronicles: Definitive Edition",
+      "platform": "Nintendo Switch 2",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xenoblade-chronicles",
+      "familyKey": "xenoblade-chronicles",
+      "slug": "xenoblade-chronicles",
+      "title": "Xenoblade Chronicles",
+      "platform": "3DS",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rome-total-war",
+      "familyKey": "rome-total-war",
+      "slug": "rome-total-war",
+      "title": "Rome: Total War",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "chrono-trigger",
+      "familyKey": "chrono-trigger",
+      "slug": "chrono-trigger",
+      "title": "Chrono Trigger",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 71,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "prince-of-persia-the-sands-of-time",
+      "familyKey": "prince-of-persia-the-sands-of-time",
+      "slug": "prince-of-persia-the-sands-of-time",
+      "title": "Prince of Persia: The Sands of Time",
+      "platform": "Xbox",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "prince-of-persia-the-sands-of-time",
+      "familyKey": "prince-of-persia-the-sands-of-time",
+      "slug": "prince-of-persia-the-sands-of-time",
+      "title": "Prince of Persia: The Sands of Time",
+      "platform": "GameCube",
+      "score": 92,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "prince-of-persia-the-sands-of-time",
+      "familyKey": "prince-of-persia-the-sands-of-time",
+      "slug": "prince-of-persia-the-sands-of-time",
+      "title": "Prince of Persia: The Sands of Time",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "prince-of-persia-the-sands-of-time",
+      "familyKey": "prince-of-persia-the-sands-of-time",
+      "slug": "prince-of-persia-the-sands-of-time",
+      "title": "Prince of Persia: The Sands of Time",
+      "platform": "Game Boy Advance",
+      "score": 75,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "espn-nfl-2k5",
+      "familyKey": "espn-nfl-2k5",
+      "slug": "espn-nfl-2k5",
+      "title": "ESPN NFL 2K5",
+      "platform": "PlayStation 2",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-sims",
+      "familyKey": "the-sims",
+      "slug": "the-sims",
+      "title": "The Sims",
+      "platform": "PlayStation 2",
+      "score": 83,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-sims",
+      "familyKey": "the-sims",
+      "slug": "the-sims",
+      "title": "The Sims",
+      "platform": "GameCube",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-sims",
+      "familyKey": "the-sims",
+      "slug": "the-sims",
+      "title": "The Sims",
+      "platform": "Xbox",
+      "score": 84,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-legends",
+      "familyKey": "rayman-legends",
+      "slug": "rayman-legends",
+      "title": "Rayman Legends",
+      "platform": "PlayStation Vita",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-legends",
+      "familyKey": "rayman-legends",
+      "slug": "rayman-legends",
+      "title": "Rayman Legends",
+      "platform": "PlayStation 3",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-legends",
+      "familyKey": "rayman-legends",
+      "slug": "rayman-legends",
+      "title": "Rayman Legends",
+      "platform": "Xbox 360",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-legends",
+      "familyKey": "rayman-legends",
+      "slug": "rayman-legends",
+      "title": "Rayman Legends",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-legends",
+      "familyKey": "rayman-legends",
+      "slug": "rayman-legends",
+      "title": "Rayman Legends",
+      "platform": "PlayStation 4",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-legends",
+      "familyKey": "rayman-legends",
+      "slug": "rayman-legends",
+      "title": "Rayman Legends",
+      "platform": "Xbox One",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ssx-tricky",
+      "familyKey": "ssx-tricky",
+      "slug": "ssx-tricky",
+      "title": "SSX Tricky",
+      "platform": "GameCube",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ssx-tricky",
+      "familyKey": "ssx-tricky",
+      "slug": "ssx-tricky",
+      "title": "SSX Tricky",
+      "platform": "Xbox",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "ssx-tricky",
+      "familyKey": "ssx-tricky",
+      "slug": "ssx-tricky",
+      "title": "SSX Tricky",
+      "platform": "Game Boy Advance",
+      "score": 66,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "bayonetta-2",
+      "familyKey": "bayonetta-2",
+      "slug": "bayonetta-2",
+      "title": "Bayonetta 2",
+      "platform": "Wii U",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "final-fantasy-vi",
+      "familyKey": "final-fantasy-vi",
+      "slug": "final-fantasy-vi",
+      "title": "Final Fantasy VI",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "virtua-tennis",
+      "familyKey": "virtua-tennis",
+      "slug": "virtua-tennis",
+      "title": "Virtua Tennis",
+      "platform": "PC",
+      "score": 67,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "virtua-tennis",
+      "familyKey": "virtua-tennis",
+      "slug": "virtua-tennis",
+      "title": "Virtua Tennis",
+      "platform": "Game Boy Advance",
+      "score": 83,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "nhl-2002",
+      "familyKey": "nhl-2002",
+      "slug": "nhl-2002",
+      "title": "NHL 2002",
+      "platform": "PC",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "nhl-2002",
+      "familyKey": "nhl-2002",
+      "slug": "nhl-2002",
+      "title": "NHL 2002",
+      "platform": "Xbox",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "like-a-dragon-infinite-wealth",
+      "familyKey": "like-a-dragon-infinite-wealth",
+      "slug": "like-a-dragon-infinite-wealth",
+      "title": "Like a Dragon: Infinite Wealth",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "like-a-dragon-infinite-wealth",
+      "familyKey": "like-a-dragon-infinite-wealth",
+      "slug": "like-a-dragon-infinite-wealth",
+      "title": "Like a Dragon: Infinite Wealth",
+      "platform": "PlayStation 5",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "unreal-tournament-1999",
+      "familyKey": "unreal-tournament-1999",
+      "slug": "unreal-tournament-1999",
+      "title": "Unreal Tournament (1999)",
+      "platform": "Dreamcast",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "unreal-tournament-1999",
+      "familyKey": "unreal-tournament-1999",
+      "slug": "unreal-tournament-1999",
+      "title": "Unreal Tournament (1999)",
+      "platform": "PlayStation 2",
+      "score": 77,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "banjo-kazooie",
+      "familyKey": "banjo-kazooie",
+      "slug": "banjo-kazooie",
+      "title": "Banjo-Kazooie",
+      "platform": "Xbox 360",
+      "score": 77,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "trails-in-the-sky-2nd-chapter",
+      "familyKey": "trails-in-the-sky-2nd-chapter",
+      "slug": "trails-in-the-sky-2nd-chapter",
+      "title": "Trails in the Sky 2nd Chapter",
+      "platform": "PlayStation 5",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "trails-in-the-sky-2nd-chapter",
+      "familyKey": "trails-in-the-sky-2nd-chapter",
+      "slug": "trails-in-the-sky-2nd-chapter",
+      "title": "Trails in the Sky 2nd Chapter",
+      "platform": "Nintendo Switch 2",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-world-ends-with-you",
+      "familyKey": "the-world-ends-with-you",
+      "slug": "the-world-ends-with-you",
+      "title": "The World Ends with You",
+      "platform": "DS",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+      "familyKey": "dragon-quest-xi",
+      "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+      "title": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+      "platform": "Nintendo Switch",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+      "familyKey": "dragon-quest-xi",
+      "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+      "title": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+      "platform": "PlayStation 4",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+      "familyKey": "dragon-quest-xi",
+      "slug": "dragon-quest-xi-s-echoes-of-an-elusive-age",
+      "title": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+      "platform": "Nintendo Switch 2",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "parappa-the-rapper",
+      "familyKey": "parappa-the-rapper",
+      "slug": "parappa-the-rapper",
+      "title": "PaRappa the Rapper",
+      "platform": "PSP",
+      "score": 67,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "parappa-the-rapper",
+      "familyKey": "parappa-the-rapper",
+      "slug": "parappa-the-rapper",
+      "title": "PaRappa the Rapper",
+      "platform": "PlayStation 4",
+      "score": 61,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tiger-woods-pga-tour-2003",
+      "familyKey": "tiger-woods-pga-tour-2003",
+      "slug": "tiger-woods-pga-tour-2003",
+      "title": "Tiger Woods PGA Tour 2003",
+      "platform": "PlayStation 2",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tiger-woods-pga-tour-2003",
+      "familyKey": "tiger-woods-pga-tour-2003",
+      "slug": "tiger-woods-pga-tour-2003",
+      "title": "Tiger Woods PGA Tour 2003",
+      "platform": "GameCube",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "tiger-woods-pga-tour-2003",
+      "familyKey": "tiger-woods-pga-tour-2003",
+      "slug": "tiger-woods-pga-tour-2003",
+      "title": "Tiger Woods PGA Tour 2003",
+      "platform": "Xbox",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "plants-vs-zombies",
+      "familyKey": "plants-vs-zombies",
+      "slug": "plants-vs-zombies",
+      "title": "Plants vs. Zombies",
+      "platform": "PC",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "plants-vs-zombies",
+      "familyKey": "plants-vs-zombies",
+      "slug": "plants-vs-zombies",
+      "title": "Plants vs. Zombies",
+      "platform": "Xbox 360",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "plants-vs-zombies",
+      "familyKey": "plants-vs-zombies",
+      "slug": "plants-vs-zombies",
+      "title": "Plants vs. Zombies",
+      "platform": "PlayStation 3",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "plants-vs-zombies",
+      "familyKey": "plants-vs-zombies",
+      "slug": "plants-vs-zombies",
+      "title": "Plants vs. Zombies",
+      "platform": "DS",
+      "score": 81,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "plants-vs-zombies",
+      "familyKey": "plants-vs-zombies",
+      "slug": "plants-vs-zombies",
+      "title": "Plants vs. Zombies",
+      "platform": "PlayStation Vita",
+      "score": 77,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-origins",
+      "familyKey": "rayman-origins",
+      "slug": "rayman-origins",
+      "title": "Rayman Origins",
+      "platform": "Xbox 360",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-origins",
+      "familyKey": "rayman-origins",
+      "slug": "rayman-origins",
+      "title": "Rayman Origins",
+      "platform": "PlayStation 3",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-origins",
+      "familyKey": "rayman-origins",
+      "slug": "rayman-origins",
+      "title": "Rayman Origins",
+      "platform": "3DS",
+      "score": 71,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-origins",
+      "familyKey": "rayman-origins",
+      "slug": "rayman-origins",
+      "title": "Rayman Origins",
+      "platform": "PlayStation Vita",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "rayman-origins",
+      "familyKey": "rayman-origins",
+      "slug": "rayman-origins",
+      "title": "Rayman Origins",
+      "platform": "PC",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "what-remains-of-edith-finch",
+      "familyKey": "what-remains-of-edith-finch",
+      "slug": "what-remains-of-edith-finch",
+      "title": "What Remains of Edith Finch",
+      "platform": "PlayStation 4",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "what-remains-of-edith-finch",
+      "familyKey": "what-remains-of-edith-finch",
+      "slug": "what-remains-of-edith-finch",
+      "title": "What Remains of Edith Finch",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "what-remains-of-edith-finch",
+      "familyKey": "what-remains-of-edith-finch",
+      "slug": "what-remains-of-edith-finch",
+      "title": "What Remains of Edith Finch",
+      "platform": "Nintendo Switch",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mixtape",
+      "familyKey": "mixtape",
+      "slug": "mixtape",
+      "title": "Mixtape",
+      "platform": "PC",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mixtape",
+      "familyKey": "mixtape",
+      "slug": "mixtape",
+      "title": "Mixtape",
+      "platform": "PlayStation 5",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "mixtape",
+      "familyKey": "mixtape",
+      "slug": "mixtape",
+      "title": "Mixtape",
+      "platform": "Nintendo Switch 2",
+      "score": 81,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-banner-saga",
+      "familyKey": "the-banner-saga",
+      "slug": "the-banner-saga",
+      "title": "The Banner Saga",
+      "platform": "PC",
+      "score": 80,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-banner-saga",
+      "familyKey": "the-banner-saga",
+      "slug": "the-banner-saga",
+      "title": "The Banner Saga",
+      "platform": "PlayStation 4",
+      "score": 79,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-banner-saga",
+      "familyKey": "the-banner-saga",
+      "slug": "the-banner-saga",
+      "title": "The Banner Saga",
+      "platform": "Xbox One",
+      "score": 76,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "the-banner-saga",
+      "familyKey": "the-banner-saga",
+      "slug": "the-banner-saga",
+      "title": "The Banner Saga",
+      "platform": "Nintendo Switch",
+      "score": 80,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "papers-please",
+      "familyKey": "papers-please",
+      "slug": "papers-please",
+      "title": "Papers, Please",
+      "platform": "PC",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xcom-enemy-within",
+      "familyKey": "xcom-enemy-unknown",
+      "slug": "xcom-enemy-unknown",
+      "title": "XCOM: Enemy Unknown",
+      "platform": "PlayStation 3",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xcom-enemy-within",
+      "familyKey": "xcom-enemy-unknown",
+      "slug": "xcom-enemy-unknown",
+      "title": "XCOM: Enemy Unknown",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xcom-enemy-within",
+      "familyKey": "xcom-enemy-unknown",
+      "slug": "xcom-enemy-unknown",
+      "title": "XCOM: Enemy Unknown",
+      "platform": "Xbox 360",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xcom-enemy-within",
+      "familyKey": "xcom-enemy-unknown",
+      "slug": "xcom-enemy-unknown",
+      "title": "XCOM: Enemy Unknown",
+      "platform": "iOS (iPhone/iPad)",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xcom-enemy-within",
+      "familyKey": "xcom-enemy-unknown",
+      "slug": "xcom-enemy-unknown",
+      "title": "XCOM: Enemy Unknown",
+      "platform": "PlayStation Vita",
+      "score": 82,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xcom-enemy-within",
+      "familyKey": "xcom-enemy-unknown",
+      "slug": "xcom-enemy-within",
+      "title": "XCOM: Enemy Within",
+      "platform": "PlayStation 3",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "xcom-enemy-within",
+      "familyKey": "xcom-enemy-unknown",
+      "slug": "xcom-enemy-within",
+      "title": "XCOM: Enemy Within",
+      "platform": "Xbox 360",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shin-megami-tensei-v-vengeance",
+      "familyKey": "shin-megami-tensei-v",
+      "slug": "shin-megami-tensei-v-vengeance",
+      "title": "Shin Megami Tensei V: Vengeance",
+      "platform": "Nintendo Switch",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shin-megami-tensei-v-vengeance",
+      "familyKey": "shin-megami-tensei-v",
+      "slug": "shin-megami-tensei-v-vengeance",
+      "title": "Shin Megami Tensei V: Vengeance",
+      "platform": "PlayStation 5",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shin-megami-tensei-v-vengeance",
+      "familyKey": "shin-megami-tensei-v",
+      "slug": "shin-megami-tensei-v-vengeance",
+      "title": "Shin Megami Tensei V: Vengeance",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shovel-knight",
+      "familyKey": "shovel-knight",
+      "slug": "shovel-knight-treasure-trove",
+      "title": "Shovel Knight: Treasure Trove",
+      "platform": "Nintendo Switch",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shovel-knight",
+      "familyKey": "shovel-knight",
+      "slug": "shovel-knight",
+      "title": "Shovel Knight",
+      "platform": "Wii U",
+      "score": 88,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shovel-knight",
+      "familyKey": "shovel-knight",
+      "slug": "shovel-knight",
+      "title": "Shovel Knight",
+      "platform": "3DS",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shovel-knight",
+      "familyKey": "shovel-knight",
+      "slug": "shovel-knight",
+      "title": "Shovel Knight",
+      "platform": "PC",
+      "score": 85,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shovel-knight",
+      "familyKey": "shovel-knight",
+      "slug": "shovel-knight",
+      "title": "Shovel Knight",
+      "platform": "PlayStation 4",
+      "score": 90,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shovel-knight",
+      "familyKey": "shovel-knight",
+      "slug": "shovel-knight",
+      "title": "Shovel Knight",
+      "platform": "Xbox One",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "spelunky-2",
+      "familyKey": "spelunky-2",
+      "slug": "spelunky-2",
+      "title": "Spelunky 2",
+      "platform": "PlayStation 4",
+      "score": 87,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "spelunky-2",
+      "familyKey": "spelunky-2",
+      "slug": "spelunky-2",
+      "title": "Spelunky 2",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "shadow-of-the-colossus",
+      "familyKey": "shadow-of-the-colossus",
+      "slug": "shadow-of-the-colossus",
+      "title": "Shadow of the Colossus",
+      "platform": "PlayStation 2",
+      "score": 91,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    },
+    {
+      "retainedId": "forza-horizon-3",
+      "familyKey": "forza-horizon-3",
+      "slug": "forza-horizon-3",
+      "title": "Forza Horizon 3",
+      "platform": "PC",
+      "score": 86,
+      "reason": "Même jeu : portage, remake ou édition enrichie. Score inférieur, ou règle de départage des versions ex æquo."
+    }
+  ],
+  "excluded": [
+    {
+      "slug": "bayonetta-plus-bayonetta-2",
+      "title": "Bayonetta + Bayonetta 2",
+      "platform": "Nintendo Switch",
+      "score": 90,
+      "reason": "Compilation de deux jeux distincts."
+    },
+    {
+      "slug": "metal-gear-solid-hd-collection",
+      "title": "Metal Gear Solid HD Collection",
+      "platform": "PlayStation 3",
+      "score": 89,
+      "reason": "Compilation multi-jeux."
+    },
+    {
+      "slug": "metal-gear-solid-hd-collection",
+      "title": "Metal Gear Solid HD Collection",
+      "platform": "Xbox 360",
+      "score": 90,
+      "reason": "Compilation multi-jeux."
+    },
+    {
+      "slug": "cuphead-in-the-delicious-last-course",
+      "title": "Cuphead in the Delicious Last Course",
+      "platform": "Xbox One",
+      "score": 92,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "cuphead-in-the-delicious-last-course",
+      "title": "Cuphead in the Delicious Last Course",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "cuphead-in-the-delicious-last-course",
+      "title": "Cuphead in the Delicious Last Course",
+      "platform": "Nintendo Switch",
+      "score": 88,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "cuphead-in-the-delicious-last-course",
+      "title": "Cuphead in the Delicious Last Course",
+      "platform": "PlayStation 4",
+      "score": 86,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "castlevania-dominus-collection",
+      "title": "Castlevania Dominus Collection",
+      "platform": "Nintendo Switch",
+      "score": 92,
+      "reason": "Compilation multi-jeux."
+    },
+    {
+      "slug": "castlevania-dominus-collection",
+      "title": "Castlevania Dominus Collection",
+      "platform": "PlayStation 5",
+      "score": 89,
+      "reason": "Compilation multi-jeux."
+    },
+    {
+      "slug": "castlevania-dominus-collection",
+      "title": "Castlevania Dominus Collection",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Compilation multi-jeux."
+    },
+    {
+      "slug": "flipnote-studio",
+      "title": "Flipnote Studio",
+      "platform": "DS",
+      "score": 93,
+      "reason": "Application créative, pas un jeu."
+    },
+    {
+      "slug": "halo-2-multiplayer-map-pack",
+      "title": "Halo 2 Multiplayer Map Pack",
+      "platform": "Xbox",
+      "score": 89,
+      "reason": "Contenu additionnel multijoueur."
+    },
+    {
+      "slug": "kentucky-route-zero-act-iii",
+      "title": "Kentucky Route Zero - Act III",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Épisode isolé d’un jeu."
+    },
+    {
+      "slug": "doom-the-dark-ages-revelations",
+      "title": "DOOM: The Dark Ages - Revelations",
+      "platform": "Xbox Series X",
+      "score": 92,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "doom-the-dark-ages-revelations",
+      "title": "DOOM: The Dark Ages - Revelations",
+      "platform": "PlayStation 5",
+      "score": 91,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "doom-the-dark-ages-revelations",
+      "title": "DOOM: The Dark Ages - Revelations",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "grand-theft-auto-iv-the-ballad-of-gay-tony",
+      "title": "Grand Theft Auto IV: The Ballad of Gay Tony",
+      "platform": "Xbox 360",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "grand-theft-auto-iv-the-ballad-of-gay-tony",
+      "title": "Grand Theft Auto IV: The Ballad of Gay Tony",
+      "platform": "PlayStation 3",
+      "score": 87,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt-blood-and-wine",
+      "title": "The Witcher 3: Wild Hunt - Blood and Wine",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt-blood-and-wine",
+      "title": "The Witcher 3: Wild Hunt - Blood and Wine",
+      "platform": "PlayStation 4",
+      "score": 91,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt-blood-and-wine",
+      "title": "The Witcher 3: Wild Hunt - Blood and Wine",
+      "platform": "Xbox One",
+      "score": 94,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "the-ico-and-shadow-of-the-colossus-collection",
+      "title": "The ICO & Shadow of the Colossus Collection",
+      "platform": "PlayStation 3",
+      "score": 92,
+      "reason": "Compilation de deux jeux distincts."
+    },
+    {
+      "slug": "galactic-civilizations-ii-dark-avatar",
+      "title": "Galactic Civilizations II: Dark Avatar",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "world-of-warcraft-the-burning-crusade",
+      "title": "World of Warcraft: The Burning Crusade",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Extension de World of Warcraft."
+    },
+    {
+      "slug": "wipeout-hd-fury",
+      "title": "Wipeout HD Fury",
+      "platform": "PlayStation 3",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "kentucky-route-zero-act-iv",
+      "title": "Kentucky Route Zero - Act IV",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Épisode isolé d’un jeu."
+    },
+    {
+      "slug": "destiny-2-the-final-shape",
+      "title": "Destiny 2: The Final Shape",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "destiny-2-the-final-shape",
+      "title": "Destiny 2: The Final Shape",
+      "platform": "Xbox Series X",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "destiny-2-the-final-shape",
+      "title": "Destiny 2: The Final Shape",
+      "platform": "PlayStation 5",
+      "score": 90,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "grand-theft-auto-double-pack",
+      "title": "Grand Theft Auto Double Pack",
+      "platform": "Xbox",
+      "score": 96,
+      "reason": "Compilation de jeux déjà éligibles séparément."
+    },
+    {
+      "slug": "the-legend-of-zelda-a-link-to-the-past-four-swords",
+      "title": "The Legend of Zelda: A Link to the Past / Four Swords",
+      "platform": "Game Boy Advance",
+      "score": 95,
+      "reason": "Compilation de deux jeux distincts ; score indivisible."
+    },
+    {
+      "slug": "monster-hunter-world-iceborne",
+      "title": "Monster Hunter: World - Iceborne",
+      "platform": "PlayStation 4",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "monster-hunter-world-iceborne",
+      "title": "Monster Hunter: World - Iceborne",
+      "platform": "Xbox One",
+      "score": 90,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "monster-hunter-world-iceborne",
+      "title": "Monster Hunter: World - Iceborne",
+      "platform": "PC",
+      "score": 87,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "final-fantasy-chronicles",
+      "title": "Final Fantasy Chronicles",
+      "platform": "PlayStation",
+      "score": 89,
+      "reason": "Compilation multi-jeux."
+    },
+    {
+      "slug": "mario-kart-8-dlc-pack-2",
+      "title": "Mario Kart 8 DLC Pack 2",
+      "platform": "Wii U",
+      "score": 90,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "galactic-civilizations-ii-twilight-of-the-arnor",
+      "title": "Galactic Civilizations II: Twilight of the Arnor",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "final-fantasy-xiv-shadowbringers",
+      "title": "Final Fantasy XIV: Shadowbringers",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Extension de Final Fantasy XIV."
+    },
+    {
+      "slug": "final-fantasy-xiv-shadowbringers",
+      "title": "Final Fantasy XIV: Shadowbringers",
+      "platform": "PlayStation 4",
+      "score": 91,
+      "reason": "Extension de Final Fantasy XIV."
+    },
+    {
+      "slug": "xenoblade-chronicles-3-expansion-pass-wave-4",
+      "title": "Xenoblade Chronicles 3: Expansion Pass Wave 4 - Future Redeemed",
+      "platform": "Nintendo Switch",
+      "score": 92,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "cyberpunk-2077-phantom-liberty",
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "platform": "PlayStation 5",
+      "score": 87,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "cyberpunk-2077-phantom-liberty",
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "platform": "Xbox Series X",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "cyberpunk-2077-phantom-liberty",
+      "title": "Cyberpunk 2077: Phantom Liberty",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "atari-50-the-anniversary-celebration",
+      "title": "Atari 50: The Anniversary Celebration",
+      "platform": "PlayStation 5",
+      "score": 86,
+      "reason": "Compilation de jeux existants."
+    },
+    {
+      "slug": "atari-50-the-anniversary-celebration",
+      "title": "Atari 50: The Anniversary Celebration",
+      "platform": "Xbox Series X",
+      "score": 87,
+      "reason": "Compilation de jeux existants."
+    },
+    {
+      "slug": "atari-50-the-anniversary-celebration",
+      "title": "Atari 50: The Anniversary Celebration",
+      "platform": "PC",
+      "score": 82,
+      "reason": "Compilation de jeux existants."
+    },
+    {
+      "slug": "atari-50-the-anniversary-celebration",
+      "title": "Atari 50: The Anniversary Celebration",
+      "platform": "Nintendo Switch",
+      "score": 89,
+      "reason": "Compilation de jeux existants."
+    },
+    {
+      "slug": "grand-theft-auto-iv-the-lost-and-damned",
+      "title": "Grand Theft Auto IV: The Lost and Damned",
+      "platform": "Xbox 360",
+      "score": 90,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "grand-theft-auto-iv-the-lost-and-damned",
+      "title": "Grand Theft Auto IV: The Lost and Damned",
+      "platform": "PlayStation 3",
+      "score": 88,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "portal-companion-collection",
+      "title": "Portal: Companion Collection",
+      "platform": "Nintendo Switch",
+      "score": 95,
+      "reason": "Compilation de Portal et Portal 2."
+    },
+    {
+      "slug": "final-fantasy-xiv-endwalker",
+      "title": "Final Fantasy XIV: Endwalker",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Extension de Final Fantasy XIV."
+    },
+    {
+      "slug": "final-fantasy-xiv-endwalker",
+      "title": "Final Fantasy XIV: Endwalker",
+      "platform": "PlayStation 5",
+      "score": 90,
+      "reason": "Extension de Final Fantasy XIV."
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt-hearts-of-stone",
+      "title": "The Witcher 3: Wild Hunt - Hearts of Stone",
+      "platform": "Xbox One",
+      "score": 90,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt-hearts-of-stone",
+      "title": "The Witcher 3: Wild Hunt - Hearts of Stone",
+      "platform": "PlayStation 4",
+      "score": 90,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "the-witcher-3-wild-hunt-hearts-of-stone",
+      "title": "The Witcher 3: Wild Hunt - Hearts of Stone",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "the-orange-box",
+      "title": "The Orange Box",
+      "platform": "PC",
+      "score": 96,
+      "reason": "Compilation multi-jeux (Half-Life 2, Portal, Team Fortress 2)."
+    },
+    {
+      "slug": "the-orange-box",
+      "title": "The Orange Box",
+      "platform": "Xbox 360",
+      "score": 96,
+      "reason": "Compilation multi-jeux (Half-Life 2, Portal, Team Fortress 2)."
+    },
+    {
+      "slug": "the-orange-box",
+      "title": "The Orange Box",
+      "platform": "PlayStation 3",
+      "score": 89,
+      "reason": "Compilation multi-jeux (Half-Life 2, Portal, Team Fortress 2)."
+    },
+    {
+      "slug": "metroid-prime-trilogy",
+      "title": "Metroid Prime Trilogy",
+      "platform": "Wii",
+      "score": 91,
+      "reason": "Compilation des trois Metroid Prime."
+    },
+    {
+      "slug": "world-of-warcraft-wrath-of-the-lich-king",
+      "title": "World of Warcraft: Wrath of the Lich King",
+      "platform": "PC",
+      "score": 91,
+      "reason": "Extension de World of Warcraft."
+    },
+    {
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "platform": "PC",
+      "score": 92,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "platform": "Xbox Series X",
+      "score": 95,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "elden-ring-shadow-of-the-erdtree",
+      "title": "Elden Ring: Shadow of the Erdtree",
+      "platform": "PlayStation 5",
+      "score": 94,
+      "reason": "Extension dépendant du jeu de base."
+    },
+    {
+      "slug": "god-of-war-collection",
+      "title": "God of War Collection",
+      "platform": "PlayStation 3",
+      "score": 91,
+      "reason": "Compilation de deux jeux distincts."
+    },
+    {
+      "slug": "god-of-war-collection",
+      "title": "God of War Collection",
+      "platform": "PlayStation Vita",
+      "score": 73,
+      "reason": "Compilation de deux jeux distincts."
+    },
+    {
+      "slug": "the-walking-dead-episode-5-no-time-left",
+      "title": "The Walking Dead: Episode 5 - No Time Left",
+      "platform": "Xbox 360",
+      "score": 89,
+      "reason": "Épisode isolé d’un jeu."
+    },
+    {
+      "slug": "the-walking-dead-episode-5-no-time-left",
+      "title": "The Walking Dead: Episode 5 - No Time Left",
+      "platform": "PlayStation 3",
+      "score": 88,
+      "reason": "Épisode isolé d’un jeu."
+    },
+    {
+      "slug": "the-walking-dead-episode-5-no-time-left",
+      "title": "The Walking Dead: Episode 5 - No Time Left",
+      "platform": "PC",
+      "score": 89,
+      "reason": "Épisode isolé d’un jeu."
+    },
+    {
+      "slug": "dark-souls-artorias-of-the-abyss",
+      "title": "Dark Souls: Artorias of the Abyss",
+      "platform": "Xbox 360",
+      "score": 89,
+      "reason": "Extension du jeu de base."
+    },
+    {
+      "slug": "the-legend-of-zelda-collectors-edition",
+      "title": "The Legend of Zelda Collector's Edition",
+      "platform": "GameCube",
+      "score": 95,
+      "reason": "Compilation multi-jeux."
+    },
+    {
+      "slug": "world-of-warcraft-cataclysm",
+      "title": "World of Warcraft: Cataclysm",
+      "platform": "PC",
+      "score": 90,
+      "reason": "Extension de World of Warcraft."
+    }
+  ]
+}
