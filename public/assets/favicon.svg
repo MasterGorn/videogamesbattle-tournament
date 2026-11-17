@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="15" fill="#d5ff3f"/><path d="M10 16h13l9 23 9-23h13L37 50H26z" fill="#111510"/><path d="M29 8h6v10h-6z" fill="#111510"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Video Games Battle">
+  <title>Video Games Battle</title>
+  <desc>Couronne avec quatre touches de manette séparées. Logo entièrement vectoriel, sans police ni image embarquée.</desc>
+  <path fill="#FF4B00" fill-rule="evenodd" transform="translate(3 14.3311258278) scale(0.0960264900662)" d="M302 0 421 167 604 58 539 368 65 368 0 58 183 167ZM278 146h48v48h-48ZM348 216h48v48h-48ZM278 286h48v48h-48ZM208 216h48v48h-48Z"/>
+</svg>

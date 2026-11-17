@@ -14,15 +14,17 @@ const origin=(process.env.PUBLIC_ORIGIN||'http://localhost:3000').replace(/\/$/,
 const secret=process.env.APP_SECRET||'local-development-only-not-for-public-use';
 if(production){for(const k of ['PUBLIC_ORIGIN','APP_SECRET','ADMIN_KEY','RESEND_API_KEY','MAIL_FROM','TURNSTILE_SITE_KEY','TURNSTILE_SECRET_KEY'])if(!process.env[k])throw new Error(`Configuration de production manquante : ${k}`);if(secret.length<32||process.env.ADMIN_KEY.length<32)throw new Error('Les secrets doivent contenir au moins 32 caractères.');if(!origin.startsWith('https://'))throw new Error('HTTPS est obligatoire en production.');}
 // Only confirmed sponsors belong in this configuration. Press links are curated separately.
+const localImage=value=>typeof value==='string'&&/^\/assets\/[\w/-]+\.(png|jpg|jpeg|webp|svg)$/.test(value);
 const validPlacement=entry=>typeof entry?.name==='string'&&entry.name.trim()&&
   typeof entry.url==='string'&&URL.parse(entry.url)?.protocol==='https:'&&
-  (entry.logo===undefined||(typeof entry.logo==='string'&&/^\/assets\/[\w/-]+\.(png|jpg|jpeg|webp|svg)$/.test(entry.logo)));
+  (entry.logo===undefined||localImage(entry.logo))&&
+  (entry.banner===undefined||localImage(entry.banner));
 function placements(key,multiple){
   const config=JSON.parse(process.env[key]||'{}');
   if(!config||typeof config!=='object'||Array.isArray(config)||
     Object.entries(config).some(([locale,entries])=>!Object.hasOwn(languages,locale)||
       (multiple?(!Array.isArray(entries)||!entries.every(validPlacement)):!validPlacement(entries)))) {
-    throw new Error(`${key} doit contenir des emplacements par langue avec un nom, une URL HTTPS et un logo local facultatif.`);
+    throw new Error(`${key} doit contenir des emplacements par langue avec un nom, une URL HTTPS et des images locales facultatives.`);
   }
   return config;
 }
